@@ -1,0 +1,161 @@
+
+[common]
+
+	[common.general]
+		#Whether dragons are allowed to use Elytra
+		elytraForDragon = false
+		#Should the player be teleported to the overworld when they fall in the end?
+		endVoidTeleport = true
+
+	[common.predator]
+		#Range: 0.2 ~ 5.0
+		predatorHealthFactor = 0.2
+		#Range: 0.5 ~ 10.0
+		predatorDamageFactor = 0.5
+
+		[common.predator.spawnChances]
+			#Chance for predators to spawn from stars. Set to 0.0 to disable.
+			#Range: 0.0 ~ 1.0
+			starSpawnChance = 0.3
+			#Range: 0 ~ 64
+			maximum = 1
+			#Set weight to 0 to disable spawning.
+			#Range: 0 ~ 100
+			weight = 2
+			#Chance for predators to spawn when an animal dies. Set to 0.0 to disable.
+			#Range: 0.0 ~ 1.0
+			animalSpawnChance = 0.0
+			#Range: 0 ~ 64
+			minimum = 0
+
+		[common.predator.spawnBiomes]
+			#The predator cannot spawn in biomes with excluded types.
+			predatorBiomesExclude = ["OVERWORLD", "NETHER"]
+			#The predator can only spawn in biomes with the included types.
+			predatorBiomesInclude = ["END"]
+
+	[common.dragonHunters]
+		#Dragon Squire spawning enabled?
+		allowSquireSpawning = true
+		#Highest Y value allowed for princess and hunter spawning
+		#Range: 64 ~ 250
+		princessAndHuntersUpperSpawnBound = 80
+		#Any dragon hunter may despawn after this many minutes
+		#Range: 1 ~ 120
+		hunterDespawnDelay = 15
+		#How many experience points are gained for killing a villager
+		#Range: 10 ~ 1000
+		villagerKillxp = 10
+		#Dragon Knight hound spawning enabled?
+		allowHoundSpawning = true
+		#Minimum delay between Dragon hunter group spawning, in minutes
+		#Range: 12 ~ 240
+		hunterGroupSpawnDelay = 20
+		#Princess and prince spawning enabled?
+		allowPrinceAndPrincessSpawning = true
+		#Entities which give 'Evil dragon' status on death
+		evilDragonStatusGivers = ["minecraft:villager", "dragonsurvival:hunter_hound", "dragonsurvival:knight", "dragonsurvival:shooter", "dragonsurvival:squire", "dragonsurvival:prince", "dragonsurvival:princess", "dragonsurvival:princess_entity"]
+		#Princess or prince may despawn after this many minutes
+		#Range: 1 ~ 120
+		princessDespawnDelay = 15
+		#Preserve effect 'Evil dragon' after death?
+		preserveEvilDragonAfterDeath = false
+		#Lowest Y value allowed for princess and hunter spawning
+		#Range: 6 ~ 128
+		princessAndHuntersLowerSpawnBound = 32
+		#Dragon knight spawning enabled?
+		allowKnightSpawning = true
+		#Minimum delay between prince or princess spawning, in minutes
+		#Range: 10 ~ 240
+		princessSpawnDelay = 120
+		#Dragon Hunter spawning enabled?
+		allowHunterSpawning = true
+
+		[common.dragonHunters.hound]
+			#Knight Hound speed
+			#Range: 0.1 ~ 0.6
+			houndSpeed = 0.45
+			#Knight Hound health
+			#Range: 8.0 ~ 40.0
+			houndHealth = 10.0
+			#Knight Hound damage
+			#Range: 1.0 ~ 10.0
+			houndDamage = 2.0
+			#Does Knight Hound apply speed slowdown?
+			houndDoesSlowdown = true
+
+		[common.dragonHunters.squire]
+			#Dragon Squire damage
+			#Range: 2.0 ~ 20.0
+			squireDamage = 6.0
+			#Dragon Squire health
+			#Range: 10.0 ~ 60.0
+			squireHealth = 24.0
+			#Dragon Squire armor
+			#Range: 0.0 ~ 20.0
+			squireArmor = 2.0
+			#Dragon Squire speed
+			#Range: 0.1 ~ 0.6
+			squireSpeed = 0.35
+
+		[common.dragonHunters.knight]
+			#Dragon Knight base damage
+			#Range: 1.0 ~ 32.0
+			knightDamage = 12.0
+			#Dragon Knight armor
+			#Range: 0.0 ~ 30.0
+			knightArmor = 10.0
+			#Dragon Knight health
+			#Range: 10.0 ~ 80.0
+			knightHealth = 40.0
+			#Dragon Knight speed
+			#Range: 0.1 ~ 0.6
+			knightSpeed = 0.35
+			#Chance of having shield
+			#Range: 0.0 ~ 1.0
+			knightShieldChance = 0.1
+
+		[common.dragonHunters.hunter]
+			#Is Dragon hunter able to throw a bolas?
+			hunterThrowsBolas = true
+			#Dragon Hunter health
+			#Range: 10.0 ~ 60.0
+			hunterHealth = 24.0
+			#Dragon Hunter speed
+			#Range: 0.1 ~ 0.6
+			hunterSpeed = 0.35
+			#Dragon Hunter damage
+			#Range: 2.0 ~ 20.0
+			hunterDamage = 5.0
+			#Dragon Hunter armor
+			#Range: 0.0 ~ 20.0
+			hunterArmor = 0.0
+
+		[common.dragonHunters.prince]
+			#Prince speed
+			#Range: 0.2 ~ 0.6
+			princeSpeed = 0.3
+			#Prince armor
+			#Range: 0.0 ~ 20.0
+			princeArmor = 6.0
+			#Prince base damage
+			#Range: 1.0 ~ 20.0
+			princeDamage = 1.0
+			#Prince health
+			#Range: 10.0 ~ 60.0
+			princeHealth = 20.0
+
+	[common.dragonBeacons]
+		#Effects of Magic beacon
+		magicBeaconEffects = ["dragonsurvival:magic", "dragonsurvival:predator_anti_spawn"]
+		#Effects of Fire beacon
+		fireBeaconEffects = ["dragonsurvival:fire", "dragonsurvival:strong_leather"]
+		#Effects of Peace beacon
+		peaceBeaconEffects = ["dragonsurvival:peace", "dragonsurvival:animal_peace"]
+		#Duration of effect given in exchange for experience in minutes
+		#Range: 1 ~ 120
+		temporaryEffect = 10
+		#Duration of effect given by beacon constantly in seconds
+		#Range: 1 ~ 3600
+		constantEffect = 20
+

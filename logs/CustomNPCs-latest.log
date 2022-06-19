@@ -1,0 +1,24 @@
+[10:22:37][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:101] Sun Jun 19 10:22:37 GMT 2022
+[10:22:37][FINE/CustomNPCs][noppes.npcs.CustomNpcs:246] Script Engines Available:
+[10:22:37][FINE/CustomNPCs][noppes.npcs.CustomNpcs:246] ECMAScript: .js
+[10:22:37][SEVERE/CustomNPCs][noppes.npcs.CustomNpcs:249] java.lang.NoSuchFieldException: classes
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2610)
+	at noppes.npcs.ScriptPlayerEventHandler.registerForgeEvents(ScriptPlayerEventHandler.java:311)
+	at noppes.npcs.CustomNpcs.setup(CustomNpcs.java:249)
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121)
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:121)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[10:23:22][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[10:23:22][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[10:23:37][FINE/CustomNPCs][noppes.npcs.CustomNpcs:295] Loading Dialogs
+[10:23:37][FINE/CustomNPCs][noppes.npcs.CustomNpcs:295] Done loading Dialogs

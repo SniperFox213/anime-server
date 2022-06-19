@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.247.60.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655136715391
+  login: 1655136617610
+money: '0'
+last-account-name: The_End
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7222.517809267549
+  y: 67.0
+  z: -1489.757940313368
+  yaw: 42.3023681640625
+  pitch: 6.898484230041504

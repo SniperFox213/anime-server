@@ -1,0 +1,37 @@
+# Keep Stand after death.
+keepStandOnDeath = false
+# Keep powers (Vampirism/Hamon) after death.
+keepNonStandOnDeath = false
+# Whether or not Stands and abilities can break blocks.
+abilitiesBreakBlocks = true
+# Range of Time Stop ability in chunks.
+#  If set to 0, the whole dimension is frozen in time.
+#  Defaults to 12.
+#Range: > 0
+timeStopChunkRange = 12
+# Whether or not random Stand gain effects (Stand Arrow, /stand random) give Stands that less players already have.
+prioritizeLeastTakenStands = false
+# List of Stands excluded from Stand Arrow and /stand random pool.
+#  These stands will still be avaliable via /stand give command
+#  Their Discs won't be added to the mod's Creative tab, but they can still be found in the Search tab."
+#  The format is the same as for /stand give command (e.g., "jojo:star_platinum").
+bannedStands = ["jojo:example_1", "jojo:example_2"]
+# Set this to false to disable the Stand tiers mechanic.
+standTiers = true
+
+# Settings which affect the speed of Hamon training.
+["Hamon training"]
+	# Whether or not breathing technique deteriorates over time.
+	breathingTechniqueDeterioration = true
+	# Hamon Strength and Control levels growth multiplier.
+	#Range: 0.0 ~ 5000.0
+	hamonPointsMultiplier = 1.0
+	# Breathing technique growth multiplier.
+	#Range: 0.0 ~ 100.0
+	breathingTechniqueMultiplier = 1.0
+
+["Structures Spawn"]
+	meteoriteSpawn = true
+	pillarmanTempleSpawn = true
+	hamonTempleSpawn = true
+

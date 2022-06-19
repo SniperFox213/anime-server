@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.252.177.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655302966409
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655627480463
+  login: 1655627222844
+money: '0'
+last-account-name: HILOPA
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 215.83742904133143
+  y: 68.0
+  z: 1633.6063889320678
+  yaw: 291.19049072265625
+  pitch: 25.56961441040039
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 489.9074928455159
+  y: 5.0
+  z: 1138.3456187929587
+  yaw: 93.6087646484375
+  pitch: 8.148331642150879

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.29.23.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1654952058913
+  login: 1654951080805
+money: '0'
+last-account-name: kirill_ivnov23
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7243.201252073218
+  y: 127.0
+  z: -1658.7949431322627
+  yaw: -11.54931640625
+  pitch: -20.84999656677246

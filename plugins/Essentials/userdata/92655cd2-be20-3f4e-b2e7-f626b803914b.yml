@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.29.23.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655134361542
+  login: 1655123553619
+money: '0'
+last-account-name: Kermilion_
+logoutlocation:
+  world: 7759f88a-7d45-4edf-b914-43606bdb3f41
+  world-name: Medieval World - Falcon's Rock v2.0.1
+  x: 196.3860449033298
+  y: 67.0
+  z: -74.30000001192093
+  yaw: -326.5499267578125
+  pitch: 27.149995803833008
+lastlocation:
+  world: 7759f88a-7d45-4edf-b914-43606bdb3f41
+  world-name: Medieval World - Falcon's Rock v2.0.1
+  x: 390.30008357998923
+  y: 78.0
+  z: -142.60835503859448
+  yaw: -220.4999542236328
+  pitch: 14.55008602142334

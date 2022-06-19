@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.230.74.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655548626741
+  login: 1655548455675
+money: '0'
+last-account-name: Aziz765
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -2.3245177166287316
+  y: 70.0
+  z: 232.06613306999756
+  yaw: -84.28262329101562
+  pitch: 18.45003890991211
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7256.593464932297
+  y: 108.5
+  z: -1612.027494815057
+  yaw: 180.59974670410156
+  pitch: -13.500012397766113

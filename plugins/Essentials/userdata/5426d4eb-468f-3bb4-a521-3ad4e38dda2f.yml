@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.115.101.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655295529293
+  login: 1655295389937
+money: '0'
+last-account-name: kan_offical
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7184.980425280204
+  y: 72.25220334025373
+  z: -1482.1840646697995
+  yaw: 100.0477294921875
+  pitch: 18.59996795654297
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7155.182904928795
+  y: 71.0
+  z: -1510.42942620731
+  yaw: 149.8506317138672
+  pitch: 0.9000105857849121

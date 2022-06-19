@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.147.174.139
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655588562651
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655588673874
+  login: 1655586600681
+money: '0'
+last-account-name: Waind
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 160.5
+  y: 65.41564586078748
+  z: 1246.5
+  yaw: -301.8263244628906
+  pitch: 62.7585334777832
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 1550.300000011921
+  y: 67.39258693103642
+  z: 1707.9680478699681
+  yaw: 76.86038208007812
+  pitch: 32.529510498046875

@@ -1,0 +1,645 @@
+# Welcome to Mohist entity tick configuration!
+# This opens up good TPS savings if used wisely.
+# 'overrides' section populates itself over time.
+# -=-=-=-=-
+# Simple usage cases:
+# 'skip-every: 50' - skips every 50th tick
+# 'skip-every: 0' - tick limiter is not applied (vanilla behaviour)
+# 'skip-every: 1' - entity will not tick at all (skips every 1st tick)
+# 'skip-every: default' - value is grabbed from 'defaults' section
+# Values in range of 0 up to 1000 can be used, you won't need more than that.
+# -=-=-=-=-
+
+defaults:
+  skip-every: 0
+overrides:
+  net-minecraft-entity-passive-CowEntity:
+    skip-every: default
+  net-minecraft-entity-item-minecart-ChestMinecartEntity:
+    skip-every: default
+  net-minecraft-entity-passive-ChickenEntity:
+    skip-every: default
+  net-minecraft-entity-passive-PigEntity:
+    skip-every: default
+  net-minecraft-entity-passive-TurtleEntity:
+    skip-every: default
+  net-minecraft-entity-passive-WolfEntity:
+    skip-every: default
+  net-minecraft-entity-passive-SheepEntity:
+    skip-every: default
+  net-minecraft-entity-item-FallingBlockEntity:
+    skip-every: default
+  net-minecraft-entity-item-ItemEntity:
+    skip-every: default
+  net-minecraft-entity-passive-BeeEntity:
+    skip-every: default
+  net-minecraft-entity-player-ServerPlayerEntity:
+    skip-every: default
+  net-minecraft-entity-passive-BatEntity:
+    skip-every: default
+  net-minecraft-entity-passive-SquidEntity:
+    skip-every: default
+  com-teammetallurgy-aquaculture-entity-AquaFishEntity:
+    skip-every: default
+  net-minecraft-entity-monster-SpiderEntity:
+    skip-every: default
+  net-minecraft-entity-monster-CreeperEntity:
+    skip-every: default
+  net-minecraft-entity-monster-SkeletonEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-MobSlayerEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-monster-ZombieEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-YachanEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-passive-fish-TropicalFishEntity:
+    skip-every: default
+  net-minecraft-entity-passive-fish-CodEntity:
+    skip-every: default
+  net-minecraft-entity-passive-fish-PufferfishEntity:
+    skip-every: default
+  net-minecraft-entity-monster-WitchEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-NezukoEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-monster-SlimeEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Demon2Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KasugaiCrowEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-DemonEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-item-ExperienceOrbEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-MuichirouEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-monster-ZombieVillagerEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-ClawsPurifyingWindEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-ArrowEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KokushiboEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KyogaiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Demon9Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Demon4Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-DomaEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HairoEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Demon3Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-GyokkoEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-RuiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-AkazaEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-GoldfishbigEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Demon10Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Demon5Entity$CustomEntity:
+    skip-every: default
+  noppes-npcs-entity-EntityCustomNpc:
+    skip-every: default
+  net-minecraft-entity-item-ItemFrameEntity:
+    skip-every: default
+  com-teammetallurgy-aquaculture-entity-FishMountEntity:
+    skip-every: default
+  net-minecraft-entity-item-PaintingEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-BoarEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-item-ArmorStandEntity:
+    skip-every: default
+  net-minecraft-entity-item-LeashKnotEntity:
+    skip-every: default
+  de-mennomax-astikorcarts-entity-AnimalCartEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-FishingBobberEntity:
+    skip-every: default
+  net-minecraft-entity-passive-CatEntity:
+    skip-every: default
+  net-minecraft-entity-passive-horse-HorseEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-item-PistolItem$ArrowCustomEntity:
+    skip-every: default
+  de-mennomax-astikorcarts-entity-PlowEntity:
+    skip-every: default
+  net-minecraft-entity-passive-horse-LlamaEntity:
+    skip-every: default
+  vectorwing-farmersdelight-entity-RottenTomatoEntity:
+    skip-every: default
+  net-minecraft-entity-item-TNTEntity:
+    skip-every: default
+  com-mrcrayfish-furniture-entity-SeatEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KanawoBuyerEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-RuiSisterEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-RuiBrotherEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-PotionEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-BambooEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-item-YokainoMayuItem$ArrowCustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-CocconEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-RuiFatherEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-RuiMotherEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-RuiDemonArtStringEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KokushirintenEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-TamayoEntity$CustomEntity:
+    skip-every: default
+  com-teammetallurgy-aquaculture-entity-AquaFishingBobberEntity:
+    skip-every: default
+  com-teammetallurgy-aquaculture-entity-AquaFishingBobberEntity$1:
+    skip-every: default
+  de-mennomax-astikorcarts-entity-SupplyCartEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-UrokodakiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-EnkoEntity$CustomEntity:
+    skip-every: default
+  com-teammetallurgy-aquaculture-entity-WaterArrowEntity:
+    skip-every: default
+  net-minecraft-entity-passive-FoxEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-EggEntity:
+    skip-every: default
+  net-minecraft-entity-passive-PandaEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-YoriichiOldEntity$CustomEntity:
+    skip-every: default
+  com-teammetallurgy-aquaculture-entity-TurtleLandEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HandDemonEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-RengokuEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-item-EnderPearlEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HandDemonHandEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-MuscularMouseEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SlashingMoonEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SchoolNezukoEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Muzan2Entity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-monster-PhantomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-DynamiteEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-DiceSteakSeniorEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-TanjiroDemonEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-PandaFaceEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-item-BoatEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SchoolKochoEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SneakEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-ButterflyEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-MuzanEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HimejimaBallEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HimejimaAxeEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HimejimaBall2Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HimejimaAxe2Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-ConstantFluxEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-monster-CaveSpiderEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-CarEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-effect-LightningBoltEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SpiderDemonEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-UbuyashikiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-ShadowWolfEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KamanueEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Demon8Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-InosukeEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SusamaruEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-YahabaEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SerpentEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KaigakuEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-GenyaEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-BloodDemonArtGenyaTreeEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-YoriichiEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-monster-EndermanEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SabitoEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-MakomoEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-EnergyWaveEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-item-SpiderNetItem$ArrowCustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-DirectionArrowEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-DakiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-GyutaroEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-RokuroEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HonoikaduchiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-EnmuEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-EnmuTrainEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-UzuiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-item-TobiChigamaItem$ArrowCustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Sneak2Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-FlameDragonEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-DoctorEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-ToyosanEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HaganedukaEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KuwajimaEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HakujiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-YushiroEntity$CustomEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntitySiren:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityHippocampus:
+    skip-every: default
+  net-minecraft-entity-passive-RabbitEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntitySeaSerpent:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntitSlowPart:
+    skip-every: default
+  com-github-standobyte-jojo-entity-stand-stands-SilverChariotEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-stand-stands-StarPlatinumEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-AfterimageEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-stand-stands-TheWorldEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-RoadRollerEntity:
+    skip-every: default
+  net-minecraft-entity-item-ExperienceBottleEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-stand-stands-HierophantGreenEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-hunter-BasicHunterEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-hunter-AdvancedHunterEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-ownerbound-HGStringEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-ownerbound-HGGrapplingStringEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-ownerbound-HGBarrierEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-HGEmeraldEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-stand-stands-MagiciansRedEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-MRFlameEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-MRFireballEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-MRCrossfireHurricaneEntity:
+    skip-every: default
+  net-minecraft-entity-monster-DrownedEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-ownerbound-MRRedBindEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-mob-HungryZombieEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-vampire-BasicVampireEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-ownerbound-SpaceRipperStingyEyesEntity:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-creatures-hitbox-DragonHitBox:
+    skip-every: default
+  com-github-standobyte-jojo-entity-itemprojectile-BladeHatEntity:
+    skip-every: default
+  net-minecraft-entity-passive-ParrotEntity:
+    skip-every: default
+  net-minecraft-entity-item-minecart-MinecartEntity:
+    skip-every: default
+  net-minecraft-entity-merchant-villager-VillagerEntity:
+    skip-every: default
+  net-minecraft-entity-passive-horse-DonkeyEntity:
+    skip-every: default
+  net-minecraft-entity-passive-IronGolemEntity:
+    skip-every: default
+  net-minecraft-entity-passive-SnowGolemEntity:
+    skip-every: default
+  net-minecraft-entity-passive-PolarBearEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-ownerbound-SPStarFingerEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-mob-HamonMasterEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-AreaParticleCloudEntity:
+    skip-every: default
+  net-minecraft-entity-passive-horse-MuleEntity:
+    skip-every: default
+  com-oblivioussp-spartanweaponry-entity-projectile-BoomerangEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-ownerbound-ZoomPunchEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-HamonCutterEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-LeavesGliderEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-HamonProjectileShieldEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-projectile-SCRapierEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-HamonBlockChargeEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityDragonSkull:
+    skip-every: default
+  com-oblivioussp-spartanweaponry-entity-projectile-DynamiteEntity:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-creatures-PrinceHorseEntity:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-creatures-KnightEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityGhostSword:
+    skip-every: default
+  net-minecraft-entity-passive-MooshroomEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-CrossbowArrowEntity:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-creatures-PrincesHorseEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-DarkBloodProjectileEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-BlindingBatEntity:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-projectiles-BallLightningEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityDragonEgg:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-projectiles-FireBallEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-itemprojectile-KnifeEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityFireDragon:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityDragonPart:
+    skip-every: default
+  net-minecraft-entity-monster-HuskEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityDreadLichSkull:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityHippogryph:
+    skip-every: default
+  de-teamlapen-vampirism-entity-vampire-DummyBittenAnimalEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-converted-ConvertedCowEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-converted-ConvertedCreatureEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-converted-ConvertedSheepEntity:
+    skip-every: default
+  de-teamlapen-vampirism-entity-ThrowableItemEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityTideTrident:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityPixieCharge:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-blocks-TreasureBlock$1:
+    skip-every: default
+  net-minecraft-entity-monster-VindicatorEntity:
+    skip-every: default
+  net-minecraft-entity-monster-PillagerEntity:
+    skip-every: default
+  net-minecraft-entity-monster-RavagerEntity:
+    skip-every: default
+  net-minecraft-entity-monster-EvokerEntity:
+    skip-every: default
+  net-minecraft-entity-monster-VexEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-EvokerFangsEntity:
+    skip-every: default
+  com-github-standobyte-jojo-entity-damaging-LightBeamEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityMyrmexSwarmer:
+    skip-every: default
+  net-minecraft-entity-projectile-SmallFireballEntity:
+    skip-every: default
+  net-minecraft-entity-AreaEffectCloudEntity:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityStoneStatue:
+    skip-every: default
+  com-github-alexthe666-iceandfire-entity-EntityGhost:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-projectiles-DragonSpikeEntity:
+    skip-every: default
+  net-minecraft-block-Block$Anonymous$91793c7d42c0497e8c5f1820960997b8:
+    skip-every: default
+  com-oblivioussp-spartanweaponry-entity-projectile-BoltEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-SnowballEntity:
+    skip-every: default
+  net-minecraft-entity-monster-SilverfishEntity:
+    skip-every: default
+  net-minecraft-block-Block$Anonymous$9309df5761164a0db2a50f5cd9d65b5b:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-creatures-PrincessEntity:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-handlers-EventHandler$3:
+    skip-every: default
+  com-github-standobyte-jojo-entity-itemprojectile-StandArrowEntity:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-creatures-ShooterEntity:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-creatures-SquireEntity:
+    skip-every: default
+  by-dragonsurvivalteam-dragonsurvival-common-entity-creatures-HunterHoundEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-TanjiroEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-passive-horse-TraderLlamaEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-MichikatsuEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-CountlessStrikingTreesEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-LlamaSpitEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-item-AkazaPunchItem$ArrowCustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-item-RanshikiItem$ArrowCustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-EntityCompassNeedleEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-EntityCompassNeedle2Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-item-BluesilverchaoticafterglowItem$ArrowCustomEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-FireworkRocketEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-EnmuTentacleEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-EnmuTentacleHandEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-GyokkoGoldfishEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-item-NeedleItem$ArrowCustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SuigokubatiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-item-GyokkoFishItem$ArrowCustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SchoolInosukeEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SchoolZenitsuEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-SchoolTomiokaEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HasuEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-ColdWhitePrincessesEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-DomaMiniEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Yorichi0Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-MasachikaEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-VaseEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-Gyokko2Entity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-MurataEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KanrojiEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HantenguAizetsuEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-HantenguKarakuEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-KanaeEntity$CustomEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-ZennitsuEntity$CustomEntity:
+    skip-every: default
+  net-minecraft-entity-item-minecart-SpawnerMinecartEntity:
+    skip-every: default
+  net-mcreator-kimetsunoyaiba-entity-ChairRedEntity$CustomEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCrow:
+    skip-every: default
+  net-minecraft-entity-passive-DolphinEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityLobster:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityFly:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCockroach:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCentipedeHead:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCentipedeBody:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCachalotWhale:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityFrilledShark:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCachalotEcho:
+    skip-every: default
+  com-tac-guns-entity-MissileEntity:
+    skip-every: default
+  com-bluefire-archaicguns-entity-CartridgeEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityHummingbird:
+    skip-every: default
+  net-minecraft-entity-passive-fish-SalmonEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityTasmanianDevil:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityRaccoon:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityPlatypus:
+    skip-every: default
+  com-tac-guns-entity-ProjectileEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityBlobfish:
+    skip-every: default
+  com-mrcrayfish-guns-entity-GrenadeEntity:
+    skip-every: default
+  com-mrcrayfish-guns-entity-ProjectileEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityEndergrade:
+    skip-every: default
+  com-minecolonies-coremod-entity-citizen-EntityCitizen:
+    skip-every: default
+  com-tac-guns-entity-specifics-BaseballGrenadeEntity:
+    skip-every: default
+  com-mrcrayfish-guns-entity-ThrowableStunGrenadeEntity:
+    skip-every: default
+  net-minecraft-entity-monster-ElderGuardianEntity:
+    skip-every: default
+  net-minecraft-entity-monster-GuardianEntity:
+    skip-every: default
+  com-oblivioussp-spartanweaponry-entity-projectile-JavelinEntity:
+    skip-every: default
+  net-minecraft-entity-passive-horse-SkeletonHorseEntity:
+    skip-every: default
+  net-minecraft-entity-monster-ZombifiedPiglinEntity:
+    skip-every: default
+  com-oblivioussp-spartanweaponry-entity-projectile-ArrowBaseEntity:
+    skip-every: default
+  com-mcwfurnitures-kikoz-storage-ChairEntity:
+    skip-every: default
+  com-oblivioussp-spartanweaponry-entity-projectile-TomahawkEntity:
+    skip-every: default
+  net-minecraft-entity-monster-piglin-PiglinBruteEntity:
+    skip-every: default

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.53.248.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655230199783
+  login: 1655230174721
+money: '0'
+last-account-name: FreezeQTeam
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7246.236760765657
+  y: 75.0
+  z: -1559.3702964115932
+  yaw: 238.82440185546875
+  pitch: 5.455048561096191
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 6986.929794026346
+  y: 69.9375
+  z: -699.5225750295626
+  yaw: 145.4495391845703
+  pitch: 5.849931240081787

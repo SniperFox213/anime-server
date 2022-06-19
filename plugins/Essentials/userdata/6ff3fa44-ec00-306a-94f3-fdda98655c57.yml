@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 183.81.93.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655207140555
+  login: 1655206619269
+money: '0'
+last-account-name: SanseL
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7122.556690636778
+  y: 71.0
+  z: -1312.9661491554684
+  yaw: 327.1258544921875
+  pitch: 3.531644344329834
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7222.517187688395
+  y: 67.0
+  z: -1515.666571880929
+  yaw: 27.08416748046875
+  pitch: 6.1499810218811035

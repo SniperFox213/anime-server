@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.249.165.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655550681809
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655585128901
+  login: 1655582162936
+money: '0'
+last-account-name: gosagoar1
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 201.18570500821158
+  y: 68.0
+  z: 1630.25626510708
+  yaw: -8.68212890625
+  pitch: 8.55003547668457
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 4.252488098336492
+  y: 70.0
+  z: 232.66927214972765
+  yaw: -106.44659423828125
+  pitch: 5.853241443634033

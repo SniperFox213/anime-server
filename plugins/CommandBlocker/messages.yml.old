@@ -1,0 +1,269 @@
+Main:
+  NoArguments:
+  - '&3▁▂▃▅   &5&lCommand Blocker&3   ▅▃▂▁'
+  - '&c&l⚠&c You have not supplied a valid argument.'
+  - '&c➜ Valid arguments include:'
+  - '&r &r &r &c add, remove, list, edit, addOP, removeOP, listOP, editOP, and reload.'
+  - '&3▁▂▃▅ &5&lMade by TreyRuffy&3 ▅▃▂▁'
+  BungeeNoArguments:
+  - '&3▁▂▃▅   &5&lCommand Blocker&3   ▅▃▂▁'
+  - '&c&l⚠&c You have not supplied a valid argument.'
+  - '&c➜ Valid arguments include:'
+  - '&r &r &r &c add, remove, list, and reload.'
+  - '&3▁▂▃▅ &5&lMade by TreyRuffy&3 ▅▃▂▁'
+  CantUseCommand: '&c&l⚠ &cYou can''t use a command for this!'
+  AddCommandToBlock:
+  - '&b✸ Please add a command to block!'
+  - '&r &r &r &2 Use &ncancel&2 to cancel the Command Blocker process.'
+  AddArguments: '&bUse the following arguments: /cb add (command) (permission) (message).'
+  AddPermission: '&b✸ Please add a permission for this command!'
+  AddMessage: '&b✸ Please add a message for this command!'
+  AddWorld:
+  - '&b✸ Please add the worlds for this command!'
+  - '&r &r &r &2 Use &nall&2 for all worlds.'
+  - '&r &r &r &2 Use commas to separate worlds.'
+  AddServer:
+  - '&b✸ Please add the servers for this command!'
+  - '&r &r &r &2 Use &nall&2 for all servers.'
+  - '&r &r &r &2 Use commas to separate servers.'
+  AddPlayerCommand:
+  - '&b✸ Please add a command that will be executed by the player!'
+  - '&r &r &r &2 Use &nnone&2 for none.'
+  - '&r &r &r &2 Use commas to separate these player commands.'
+  AddConsoleCommand:
+  - '&b✸ Please add a command that will be executed by the console!'
+  - '&r &r &r &2 Use &nnone&2 for none.'
+  - '&r &r &r &2 Use commas to separate these console commands.'
+  AddCommandToConfig: '&a/%c was added with permission %p and message %m!'
+  CouldNotAddCommandToConfig: '&c/%c could not be added to the disabled.yml file.'
+  CouldNotAddCommandToOpConfig: '&c/%c could not be added to the opblock.yml file.'
+  ReloadCommand:
+  - '&3▁▂▃▅   &5&lCommand Blocker&3   ▅▃▂▁'
+  - '&r &r &r &d Reloading Command Blocker . . .'
+  ReloadSuccessful:
+  - '&a✔ Successfully reloaded!'
+  - '&3▁▂▃▅▋▋▋▋▋▉▉▉▉▉▉▋▋▋▋▋▅▃▂▁'
+  ReloadFailed:
+  - '&c&l✗&c Could not reload Command Blocker!'
+  - '&3▁▂▃▅▋▋▋▋▋▉▉▉▉▉▉▋▋▋▋▋▅▃▂▁'
+  RemoveCommandFromBlocklist:
+  - '&b✽ Please add a command to unblock!'
+  - '&r &r &r &2 Use &ncancel&2 to cancel the Command Blocker process.'
+  UnblockCancelledBecauseNotBlocked:
+  - '&c&l⚠ &c/%c could not be unblocked!'
+  - '&r &r &r &c Please double-check your spelling and'
+  - '&r &r &r &c ensure your specified command is already blocked.'
+  - '&c➜ Cancelled the Command Blocker process.'
+  RemoveArguments: '&bUse the following arguments: /cb remove (command).'
+  RemovedCommand: '&a✔ Successfully removed /%c from blocked commands!'
+  AddOpAddCommand:
+  - '&b✦ Please add a command to block for operators!'
+  - '&r &r &r &2 Use &ncancel&2 to cancel the Command Blocker process.'
+  AddOpArguments: '&bUse the following arguments: /cb addOP (command) (message).'
+  AddOpAddMessage: '&b✦ Please add a message for this command!'
+  AddOpAddWorld:
+  - '&b✦ Please add the worlds for this command!'
+  - '&r &r &r &2 Use &nall&2 for all worlds.'
+  - '&r &r &r &2 Use commas to separate worlds.'
+  AddOpAddPlayerCommand:
+  - '&b✦ Please add a command that will be executed by the player!'
+  - '&r &r &r &2 Use &nnone&2 for none.'
+  - '&r &r &r &2 Use commas to separate these player commands.'
+  AddOpAddConsoleCommand:
+  - '&b✦ Please add a command that will be executed by the console!'
+  - '&r &r &r &2 Use &nnone&2 for none.'
+  - '&r &r &r &2 Use commas to separate these console commands.'
+  AddOpAddedCommandToConfig: '&a/%c was added with message %m!'
+  AddOpCouldNotAddCommand: '&c/%c could not be added to the opblock.yml file.'
+  RemoveOpRemoveCommand:
+  - '&b✢ Please add a command to unblock for operators!'
+  - '&r &r &r &2 Use &ncancel&2 to cancel the Command Blocker process.'
+  RemoveOpArguments: '&bUse the following arguments: /cb removeOP (command).'
+  RemoveOpRemovedCommand: '&a✔ Successfully removed /%c from blocked commands!'
+  RemoveOpCouldNotRemove:
+  - '&c&l⚠ &c/%c could not be unblocked for operators!'
+  - '&r &r &r &c Please double-check your spelling and'
+  - '&r &r &r &c ensure your specified command is already blocked.'
+  - '&c➜ Cancelled the Command Blocker process.'
+  RemoveOpQuestion:
+  - '&d✢ Do you really want to remove /%c from the'
+  - '&r &r &r &d list of blocked commands for operators?'
+  - '&r &r &r &d &nYes&d or &nNo'
+  EditNeedToBePlayer: '&cYou need to be a player to execute that command!'
+  EditNotBlockedCommand:
+  - '&c&l⚠&c You can''t edit this because /%c is not a blocked command!'
+  - '&c➜ Cancelled the Command Blocker process.'
+  EditNeedCommandToEdit: '&c&l⚠&c Please supply an existing command to edit!'
+  EditOpNeedToBePlayer: '&cYou need to be a player to execute that command!'
+  EditOpNotBlockedCommand:
+  - '&c&l⚠&c You can''t edit this because /%c is not a blocked command for operators!'
+  - '&c➜ Cancelled the Command Blocker process.'
+  EditOpNeedCommandToEdit: '&c&l⚠&c Please supply an existing command to edit for
+    operators!'
+  Cancelled: '&a✔ Successfully cancelled the Command Blocker process!'
+  CommandAlreadyBlocked:
+  - '&c&l⚠&c /%c is already blocked!'
+  - '&c➜ Cancelled the Command Blocker process.'
+  AddConfirmation:
+  - '&d✸ Do you really want to add this command to the'
+  - '&r &r &r &d list of blocked commands?'
+  - '&r &r &r &d &nYes&d or &nNo'
+  AddOpConfirmation:
+  - '&d✦ Do you really want to add this command to the'
+  - '&r &r &r &d list of blocked commands for operators?'
+  - '&r &r &r &d &nYes&d or &nNo'
+  CanOnlyBeYesOrNo: '&c&l⚠&c Please use &nyes&c or &nno&c.'
+  AddedCommandOutput:
+  - '&r'
+  - '&a✸ Your command was successfully added to the blocked list!'
+  - '&r &r &r &a ➜ Your new blocked command is /%c.'
+  - '&r &r &r &a ➜ Its permissions are: %p.'
+  - '&r &r &r &a ➜ Its message when executed is: %m.'
+  - '&r &r &r &a ➜ The command is blocked in these worlds: %w.'
+  - '&r &r &r &a ➜ Its player commands are: %x.'
+  - '&r &r &r &a ➜ Its console commands are: %z.'
+  AddedCommandOutputBungee:
+  - '&r'
+  - '&a✸ Your command was successfully added to the blocked list!'
+  - '&r &r &r &a ➜ Your new blocked command is /%c.'
+  - '&r &r &r &a ➜ Its permissions are: %p.'
+  - '&r &r &r &a ➜ Its message when executed is: %m.'
+  - '&r &r &r &a ➜ The command is blocked in these servers: %s.'
+  - '&r &r &r &a ➜ Its player commands are: %x.'
+  RemoveCommandQuestion:
+  - '&d✽ Do you really want to remove /%c from the'
+  - '&r &r &r &d list of blocked commands?'
+  - '&r &r &r &d &nYes&d or &nNo'
+  RemovedCommandOutput:
+  - '&r'
+  - '&a✔ Your command was successfully removed from'
+  - '&r &r &r &a the blocked list!'
+  AddedOpCommandOutput:
+  - '&r'
+  - '&a✦ Your command was successfully added to the blocked list!'
+  - '&r &r &r &a ➜ Your new blocked command for operators is /%c.'
+  - '&r &r &r &a ➜ Its message when executed is: %m.'
+  - '&r &r &r &a ➜ The command is blocked in these worlds: %w.'
+  - '&r &r &r &a ➜ Its player commands are: %x.'
+  - '&r &r &r &a ➜ Its console commands are: %z.'
+  RemovedOpCommandOutput:
+  - '&r'
+  - '&a✢ Your command was successfully removed from'
+  - '&r &r &r &a the blocked list for operators!'
+  PlayerTypedUnexecutedCommand: '&bTrey''s Command Blocker: %player tried to execute
+    /%c but it was not actually executed.'
+  ListOutOfBounds: Valid page numbers are 1-%pages.
+  ListStart: 'Command Blocker List: Page %currentpage'
+  ListCommands: '&5▸ &e%command <hover:show_text:''Edit command /%command''><click:run_command:''/cb
+    edit %command''>&a✎ <hover:show_text:''Delete command /%command''><click:suggest_command:''/cb
+    remove %command''>&c✗'
+  ListCommandsBungee: '&5▸ &e%command <hover:show_text:''Delete command /%command''><click:suggest_command:''/cb
+    remove %command''>&c✗'
+  ListEnd: <back> List end <forward>
+  ListBackButton: '&2<hover:show_text:''Go back to page %lastpage''><click:run_command:''/cb
+    list %lastpage''>«'
+  ListBackButtonBeginning: '&7«'
+  ListForwardButton: '&2<hover:show_text:''Go forward to page %nextpage''><click:run_command:''/cb
+    list %nextpage''>»'
+  ListForwardButtonEnd: '&7»'
+  ListOpOutOfBounds: Valid page numbers are 1-%pages.
+  ListOpStart: 'Command Blocker OP List: Page %currentpage'
+  ListOpCommands: '&5▸ &e%command <hover:show_text:''Edit command /%command''><click:run_command:''/cb
+    edit %command''>&a✎ <hover:show_text:''Delete command /%command''><click:suggest_command:''/cb
+    remove %command''>&c✗'
+  ListOpEnd: <back> List end <forward>
+  ListOpBackButton: '&2<hover:show_text:''Go back to page %lastpage''><click:run_command:''/cb
+    list %lastpage''>«'
+  ListOpBackButtonBeginning: '&7«'
+  ListOpForwardButton: '&2<hover:show_text:''Go forward to page %nextpage''><click:run_command:''/cb
+    list %nextpage''>»'
+  ListOpForwardButtonEnd: '&7»'
+  AddBossBar: Adding /%c to Command Blocker | Cancel with "cancel"
+  RemoveBossBar: Removing /%c from Command Blocker | Cancel with "cancel"
+  AddOpBossBar: Adding /%c to OP Command Blocker | Cancel with "cancel"
+  RemoveOpBossBar: Removing /%c from OP Command Blocker | Cancel with "cancel"
+EditGui:
+  GoBackItemName: '&dGo Back'
+  Cancelled: '&a✔ Cancelled the Command Blocker process.'
+  EditCommandInventoryName: '&5&lEdit Command'
+  InventoryCommandName: '&d/%c'
+  PermissionItemName: '&dEdit Permissions'
+  PermissionItemLore:
+  - '&5Currently:'
+  - '&f%p'
+  MessageItemName: '&dEdit Message'
+  MessageItemLore:
+  - '&5Currently:'
+  - '&f%m'
+  WorldsItemName: '&dEdit Worlds'
+  PlayerCommandsItemName: '&dEdit Player Commands'
+  ConsoleCommandsItemName: '&dEdit Console Commands'
+  NoTabCompletion: '&dTab Completion Toggle'
+  ChangePermission: '&b✎ Type the new permission for /%c.'
+  ChangeMessage: '&b✎ Type the new message for /%c.'
+  EditWorldsInventoryName: '&dEdit Worlds'
+  AddWorldItem: '&5Add a New World'
+  AddWorldMessage: '&b✎ Type the new world for /%c to be blocked in.'
+  EditPlayerCommandsInventoryName: '&dEdit Player Commands'
+  AddPlayerCommandItem: '&5Add a New Player Command'
+  AddPlayerCommandMessage:
+  - '&b✎ Type the new command for /%c to be executed by players.'
+  - '&r &r &r &b The player will execute this when they type /%c.'
+  - '&2➜ Variables include:'
+  - '&r &r &r &2 %player% for the player name, and'
+  - '&r &r &r &2 %username% for the player''s display name.'
+  - '&r &r &r &2 For alternative variables, use &nPlaceholderAPI&2.'
+  EditConsoleCommandsInventoryName: '&dEdit Console Commands'
+  AddConsoleCommandItem: '&5Add a New Console Command'
+  AddConsoleCommandMessage:
+  - '&b✎ Type the new command for /%c to be executed by the console.'
+  - '&r &r &r &b The console will execute this when the player types /%c.'
+  - '&2➜ Variables include:'
+  - '&r &r &r &2 %player% for the player name, and'
+  - '&r &r &r &2 %username% for the player''s display name.'
+  - '&r &r &r &2 For alternative variables, use &nPlaceholderAPI&2.'
+  CannotUseCommand: '&c&l⚠&c You can''t use a command for this!'
+EditOpGui:
+  GoBackItemName: '&dGo Back'
+  Cancelled: '&a✔ Cancelled the Command Blocker process.'
+  EditCommandInventoryName: '&5&lEdit Command for Operators'
+  InventoryCommandName: '&d/%c'
+  MessageItemName: '&dEdit Message'
+  MessageItemLore:
+  - '&5Currently:'
+  - '&f%m'
+  WorldsItemName: '&dEdit Worlds'
+  PlayerCommandsItemName: '&dEdit Player Commands'
+  ConsoleCommandsItemName: '&dEdit Console Commands'
+  NoTabCompletion: '&dTab Completion Toggle'
+  ChangeMessage: '&b✎ Type the new message for operators for /%c.'
+  EditWorldsInventoryName: '&dEdit Worlds for Operators'
+  AddWorldItem: '&5Add a New World'
+  AddWorldMessage: '&b✎ Type the new world for /%c to be blocked in for operators.'
+  EditPlayerCommandsInventoryName: '&dEdit Player Commands for Operators'
+  AddPlayerCommandItem: '&5Add a New Player Command for Operators'
+  AddPlayerCommandMessage:
+  - '&b✎ Type the new command for /%c to be executed by players who are operators.'
+  - '&r &r &r &b The operator player will execute this when they type /%c.'
+  - '&2➜ Variables include:'
+  - '&r &r &r &2 %player% for the player name, and'
+  - '&r &r &r &2 %username% for the player''s display name.'
+  - '&r &r &r &2 For alternative variables, use &nPlaceholderAPI&2.'
+  EditConsoleCommandsInventoryName: '&dEdit Console Commands for Operators'
+  AddConsoleCommandItem: '&5Add a New Console Command for Operators'
+  AddConsoleCommandMessage:
+  - '&b✎ Type the new command for /%c to be executed by the console.'
+  - '&r &r &r &b The console will execute this when an operator player types /%c.'
+  - '&2➜ Variables include:'
+  - '&r &r &r &2 %player% for the player name, and'
+  - '&r &r &r &2 %username% for the player''s display name.'
+  - '&r &r &r &2 For alternative variables, use &nPlaceholderAPI&2.'
+  CannotUseCommand: '&c&l⚠&c You can''t use a command for this!'
+Updates:
+  UpdateFound:
+  - '&3▁▂▃▅▋▋▋▋▋▉▉▉▉▉▉▋▋▋▋▋▅▃▂▁'
+  - '&dThere''s a new update (%s) for'
+  - '&5&lTrey''s Command Blocker'
+  - '&aDownload at:'
+  - '&a&ohttps://www.spigotmc.org/resources/5280/'
+  - '&3▁▂▃▅▋▋▋▋▋▉▉▉▉▉▉▋▋▋▋▋▅▃▂▁'

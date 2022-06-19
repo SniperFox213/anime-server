@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.63.168.159
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655553440312
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655627480408
+  login: 1655627108470
+money: '0'
+last-account-name: Nazzy_5105
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -2636.892834175393
+  y: 33.0
+  z: 375.69999998807907
+  yaw: -131.2889404296875
+  pitch: 25.501117706298828
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 500.9625447917561
+  y: 65.0
+  z: -399.4930603175671
+  yaw: -352.52490234375
+  pitch: 0.29999852180480957

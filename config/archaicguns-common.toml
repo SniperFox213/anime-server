@@ -1,0 +1,6 @@
+
+[common]
+	#This config does literally nothing. Change it as you wish.
+	#Range: > 0
+	literallyNothing = 10
+

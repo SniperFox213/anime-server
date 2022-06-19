@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.214.249.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655579015266
+  login: 1655571077398
+money: '0'
+last-account-name: TD_EXoDuS_I
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 160.5
+  y: 64.0
+  z: 1222.5
+  yaw: -180.0
+  pitch: 0.0
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 179.8515625
+  y: 63.08576372180053
+  z: 389.650390625
+  yaw: 15.250680923461914
+  pitch: 86.42236328125

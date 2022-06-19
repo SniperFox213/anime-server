@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.19.77.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655546570238
+  login: 1655543438208
+money: '0'
+last-account-name: Andreisans
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -34.44223147097878
+  y: 70.0
+  z: 231.05847170670972
+  yaw: -3.9000487327575684
+  pitch: 8.24999713897705
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 27.55413277785676
+  y: 70.0
+  z: 229.70186661311132
+  yaw: 90.45025634765625
+  pitch: 0.0

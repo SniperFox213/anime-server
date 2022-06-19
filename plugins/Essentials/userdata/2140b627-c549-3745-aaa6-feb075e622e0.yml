@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.81.208.233
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655014692050
+  login: 1655014645525
+money: '0'
+last-account-name: GamerDiceBruh
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7201.179262975434
+  y: 97.7531999805212
+  z: -1634.9792827238164
+  yaw: 271.18896484375
+  pitch: 16.768508911132812
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7008.082144661074
+  y: 72.0
+  z: -1484.699999988079
+  yaw: 247.36598205566406
+  pitch: 14.611641883850098

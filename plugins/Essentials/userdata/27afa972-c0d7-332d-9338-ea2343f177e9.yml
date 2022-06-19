@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.159.38.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655571491389
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655632277051
+  login: 1655632266056
+money: '0'
+last-account-name: Terorie
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -49.5
+  y: 70.0
+  z: 242.5
+  yaw: 0.5516329407691956
+  pitch: 0.0
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 148.39884791300017
+  y: 64.1212968405392
+  z: 1232.588866247918
+  yaw: -47.6233024597168
+  pitch: 14.08791732788086

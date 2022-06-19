@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.215.105.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655235570314
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655237637877
+  login: 1655231636294
+  kits:
+    color: 1655223941025
+money: '0'
+last-account-name: Metamorf2008
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7283.5
+  y: 108.0
+  z: -1628.5
+  yaw: -309.74993896484375
+  pitch: 2.40000057220459
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7272.316420239841
+  y: 64.0
+  z: -1528.5833409155068
+  yaw: 220.70361328125
+  pitch: -2.1542727947235107

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.48.114.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655553380311
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655627480401
+  login: 1655618011712
+money: '0'
+last-account-name: pahaza789
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 202.6636163716151
+  y: 67.5
+  z: 1630.7058421285212
+  yaw: 17.7425537109375
+  pitch: 2.861830711364746
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 185.35538734383664
+  y: 69.0
+  z: -331.0660772440382
+  yaw: -234.2950439453125
+  pitch: 14.041221618652344

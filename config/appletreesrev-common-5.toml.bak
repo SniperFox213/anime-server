@@ -1,0 +1,51 @@
+"Biome Config" = {}
+
+[Recipes]
+	#[Enable/Disable] Gold Apple Sapling Recipe [true/false] | [Default: false]
+	GoldAppleSaplingRecipe = false
+	#[Enable/Disable] Emerald Apple Sapling Recipe [true/false] | [Default: false]
+	EmeraldAppleSaplingRecipe = false
+	#[Enable/Disable] Notch Apple Recipe [true/false] | [Default: false]
+	NotchAppleRecipe = false
+
+["Plants Config"]
+	#[Enable/Disable] Right click harvest Any Apple Plant [true/false] | [Default: true]
+	useEasyHarvest = true
+	#[Enable/Disable] Bonemeal use on Any Apple Plant (Override Individual Options) [true/false] | [Default: true]
+	allowBonemeal = true
+	#[Enable/Disable] Bonemeal use on Apple Plants [true/false] | [Default: true]
+	allowAppleBonemeal = true
+	#[Enable/Disable] Bonemeal use on Golden Apple Plants [true/false] | [Default: true]
+	allowGoldenBonemeal = true
+	#[Enable/Disable] Bonemeal use on Emerald Apple Plant [true/false] | [Default: true]
+	allowEmeraldBonemeal = true
+
+["World loot"]
+	#[Enable/Disable] Lootable content on Chests [true/false] | [Default: true]
+	allowWorldLoot = true
+
+["Apple Tree Generation"]
+	NOTE = "Custom biomes may could work, Use: [modid]:[biome_name] | Higher numbers has lesser chance | Unregistered values will be set to Default | Values accepted [1 - 500]"
+	#[Enable/Disable] Natural Apple Trees generation [true/false] | [Default: true]
+	AllowAppleTrees = true
+	#Register the biomes to Spawn Apple Trees
+	Locations = ["plains", "sunflower_plains", "flower_forest", "forest", "dark_forest", "wooded_mountains"]
+	#Register the Chances of each registered Biome
+	Chances = [18, 16, 1, 6, 7, 12]
+
+["Golden Tree Generation"]
+	#[Enable/Disable] Natural Golden Trees generation [true/false] | [Default: false]
+	AllowGoldenTrees = false
+	#Register the biomes to Spawn Golden Trees
+	Locations = []
+	#Register the Chances of each registered Biome
+	Chances = []
+
+["Emerald Tree Generation"]
+	#[Enable/Disable] Natural Golden Trees generation [true/false] | [Default: true]
+	AllowEmeraldTrees = true
+	#Register the biomes to Spawn Golden Trees
+	Locations = ["flower_forest"]
+	#Register the Chances of each registered Biome
+	Chances = [75]
+

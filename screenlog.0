@@ -1,0 +1,833 @@
+Mon Jun 13 22:13:17 MSK 2022
+start
+
+
+ __    __   ______   __  __   __   ______   ______  
+/\ "-./  \ /\  __ \ /\ \_\ \ /\ \ /\  ___\ /\__  _\ 
+\ \ \-./\ \\ \ \/\ \\ \  __ \\ \ \\ \___  \\/_/\ \/ 
+ \ \_\ \ \_\\ \_____\\ \_\ \_\\ \_\\/\_____\  \ \_\ 
+  \/_/  \/_/ \/_____/ \/_/\/_/ \/_/ \/_____/   \/_/ 
+                                                    
+
+                                      Welcome to Mohist 1.16.5 ! - Mohist Developement Group - 1.16.5-1020, Java 55.0
+Checking libraries, please wait...
+All libraries are nice :) !
+Checking the installation, please wait.
+Finished the install verification process !
+[[36;1m22:13:20[39;0m [32;22mINFO[39;0m]: Update in check...
+[[36;1m22:13:21[39;0m [32;22mINFO[39;0m]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[[36;1m22:13:21[39;0m [32;22mINFO[39;0m]: The latest Mohist version is 1.16.5-1027 but you have 1.16.5-1020. The latest version has been built on 2022-06-13 18:42:00. You should update to fix recent bugs !
+[[36;1m22:13:21[39;0m [32;22mINFO[39;0m]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 1020, --fml.forgeVersion, 36.2.35, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[[36;1m22:13:21[39;0m [32;22mINFO[39;0m]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.10 by AdoptOpenJDK
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by cpw.mods.modlauncher.SecureJarHandler (file:/home/srv52253/libraries/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar) to field java.util.jar.Manifest.jv
+WARNING: Please consider reporting this to the maintainers of cpw.mods.modlauncher.SecureJarHandler
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[[36;1m22:13:21[39;0m [32;22mINFO[39;0m]: Added Lets Encrypt root certificates as additional trust
+[[36;1m22:13:21[39;0m [32;22mINFO[39;0m]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/home/srv52253/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[[36;1m22:13:24[39;0m [31;1mERROR[39;0m]: Mixin config plasmovoice-common.mixins.json does not specify "minVersion" property
+[[36;1m22:13:24[39;0m [31;1mERROR[39;0m]: Mixin config plasmovoice.mixins.json does not specify "minVersion" property
+[[36;1m22:13:24[39;0m [32;22mINFO[39;0m]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[[36;1m22:13:36[39;0m [32;22mINFO[39;0m]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[[36;1m22:13:36[39;0m [32;22mINFO[39;0m]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[[36;1m22:13:36[39;0m [32;22mINFO[39;0m]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[[36;1m22:13:36[39;0m [32;22mINFO[39;0m]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[[36;1m22:13:36[39;0m [32;22mINFO[39;0m]: Forge mod loading, version 36.2.35, for MC 1.16.5 with MCP 20210115.111550
+[[36;1m22:13:36[39;0m [32;22mINFO[39;0m]: MinecraftForge v36.2.35 Initialized
+[[36;1m22:13:36[39;0m [32;22mINFO[39;0m]: Mod uteamcore is signed with a valid certificate.
+[[36;1m22:13:37[39;0m [32;22mINFO[39;0m]: EventDispatcherRegistry initialized
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22:13:44][FINE/CustomNPCs][noppes.npcs.LogWriter:71] Mon Jun 13 22:13:44 MSK 2022
+[22:13:44][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:101] Script Engines Available:
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22:13:44][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:110] ECMAScript: .js
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: CustomNPC Permissions available:
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.edit.blocks
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.edit.villager
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.global.bank
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.global.dialog
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.global.faction
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.global.linked
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.global.naturalspawn
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.global.playerdata
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.global.quest
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.global.recipe
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.global.transport
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.advanced
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.ai
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.clone
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.create
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.delete
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.display
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.freeze
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.gui
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.inventory
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.reset
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.npc.stats
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.scenes
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.soulstone.all
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.spawner.create
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.spawner.mob
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.tool.mounter
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.tool.nbtbook
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.tool.pather
+[[36;1m22:13:44[39;0m [32;22mINFO[39;0m]: customnpcs.tool.scripter
+[[36;1m22:13:44[39;0m [33;1mWARN[39;0m]: Called deprecated GlobalEntityTypeAttributes#put for astikorcarts:postilion, use EntityAttributeCreationEvent instead.
+[[36;1m22:13:50[39;0m [32;22mINFO[39;0m]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[[36;1m22:13:51[39;0m [32;22mINFO[39;0m]: Reloading ResourceManager: Default, bukkit, FarmersDelight-1.16.5-0.6.0.jar, obfuscate-0.6.3-1.16.5.jar, CustomNPCs-1.16.5.20220515.jar, u_team_core-1.16.5-3.2.1.196.jar, cfm-7.0.0pre22-1.16.3.jar, carryon-1.16.5-1.15.5.22.jar, astikorcarts_1.16.5_1.1.1.jar, KimetsunoYaiba_1.16.5_ver36.jar, mohist-1.16.5-1020-universal.jar, Aquaculture-1.16.5-2.1.22.jar, diet-forge-1.16.5-1.0.4.0.jar, AppleTreesRev-Forge-1.16.5-v2.6.jar, drinkbeer-1.16.5-2.3.5.jar, citadel-1.8.1-1.16.5.jar, locksmith-forge-1.0.11.16.5.jar, Forge-1.16.5-Pollen-1.4.1.jar, plasmovoice-forge-1.16-1.2.13.jar
+[[36;1m22:13:51[39;0m [32;22mINFO[39;0m]: Loaded 0 data modifiers
+[[36;1m22:13:55[39;0m [32;22mINFO[39;0m]: Loaded 1,732 recipes
+[[36;1m22:13:57[39;0m [32;22mINFO[39;0m]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, farmersdelight:unaffected_by_rich_soil, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, cfm:fences/upgraded, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, cfm:fences/picket, forge:gravel, forge:glass_panes/cyan, farmersdelight:wild_crops, forge:storage_blocks/redstone, forge:glass_panes/light_gray, minecraft:wool, sereneseasons:winter_crops, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, sereneseasons:unbreakable_infertile_crops, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, farmersdelight:compost_activators, farmersdelight:heat_conductors, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, appletreesrev:saplings, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, create:fan_heaters, forge:glass_panes/purple, forge:glass/yellow, locksmith:lockable, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:mineable/pickaxe, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, cfm:fence_gates/picket, forge:storage_blocks/neptunium, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, appletreesrev:apple_logs, minecraft:jungle_logs, cfm:fences/hedge, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, cfm:fence_gates/upgraded, minecraft:base_stone_nether, minecraft:wall_signs, sereneseasons:spring_crops, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden, sereneseasons:summer_crops]
+[[36;1m22:13:57[39;0m [32;22mINFO[39;0m]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, farmersdelight:unaffected_by_rich_soil, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, cfm:fences/upgraded, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, cfm:fences/picket, forge:gravel, forge:glass_panes/cyan, farmersdelight:wild_crops, forge:storage_blocks/redstone, forge:glass_panes/light_gray, minecraft:wool, sereneseasons:winter_crops, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, sereneseasons:unbreakable_infertile_crops, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, farmersdelight:compost_activators, farmersdelight:heat_conductors, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, appletreesrev:saplings, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, create:fan_heaters, forge:glass_panes/purple, forge:glass/yellow, locksmith:lockable, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:mineable/pickaxe, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, cfm:fence_gates/picket, forge:storage_blocks/neptunium, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, appletreesrev:apple_logs, minecraft:jungle_logs, cfm:fences/hedge, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, cfm:fence_gates/upgraded, minecraft:base_stone_nether, minecraft:wall_signs, sereneseasons:spring_crops, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden, sereneseasons:summer_crops]
+[[36;1m22:14:00[39;0m [32;22mINFO[39;0m]: Starting minecraft server version 1.16.5
+[[36;1m22:14:00[39;0m [32;22mINFO[39;0m]: Loading properties
+[[36;1m22:14:00[39;0m [32;22mINFO[39;0m]: Default game type: SURVIVAL
+[[36;1m22:14:00[39;0m [32;22mINFO[39;0m]: Generating keypair
+[[36;1m22:14:00[39;0m [32;22mINFO[39;0m]: Starting Minecraft server on 217.106.107.176:26,472
+[[36;1m22:14:00[39;0m [32;22mINFO[39;0m]: Using default channel type
+[[36;1m22:14:00[39;0m [33;1mWARN[39;0m]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[[36;1m22:14:00[39;0m [33;1mWARN[39;0m]: The server will make no attempt to authenticate usernames. Beware.
+[[36;1m22:14:00[39;0m [33;1mWARN[39;0m]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[[36;1m22:14:00[39;0m [33;1mWARN[39;0m]: To change this, set "online-mode" to "true" in the server.properties file.
+[[36;1m22:14:00[39;0m [32;22mINFO[39;0m]: This server is running Mohist version 1.16.5-1020 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.35)
+[[36;1m22:14:01[39;0m [32;22mINFO[39;0m]: Server Ping Player Sample Count: 12
+[[36;1m22:14:01[39;0m [32;22mINFO[39;0m]: Using 4 threads for Netty based IO
+[[36;1m22:14:01[39;0m [32;22mINFO[39;0m]: Debug logging is enabled
+[[36;1m22:14:03[39;0m [33;1mWARN[39;0m]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[[36;1m22:14:08[39;0m [33;1mWARN[39;0m]: Legacy plugin LoginSecurity v3.1 does not specify an api-version.
+[[36;1m22:14:08[39;0m [33;1mWARN[39;0m]: Legacy plugin SimpleSit v1.7 does not specify an api-version.
+[[36;1m22:14:08[39;0m [32;22mINFO[39;0m]: [WorldEdit] Loading WorldEdit v7.2.0-beta-02+d10d7d6
+[[36;1m22:14:12[39;0m [32;22mINFO[39;0m]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@610f9713]
+[[36;1m22:14:12[39;0m [32;22mINFO[39;0m]: [Essentials] Loading Essentials v2.19.4
+[[36;1m22:14:12[39;0m [32;22mINFO[39;0m]: [LoginSecurity] Loading LoginSecurity v3.1
+[[36;1m22:14:12[39;0m [32;22mINFO[39;0m]: [SimpleSit] Loading SimpleSit v1.7
+[[36;1m22:14:12[39;0m [32;22mINFO[39;0m]: [WorldEdit] Enabling WorldEdit v7.2.0-beta-02+d10d7d6
+[[36;1m22:14:12[39;0m [32;22mINFO[39;0m]: WEPIF: Using the Bukkit Permissions API.
+[[36;1m22:14:13[39;0m [33;1mWARN[39;0m]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit] ====================================================
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  WorldEdit works better if you use Paper 
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  as your server software. 
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]   
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  Paper offers significant performance improvements,
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  bug fixes, security enhancements and optional
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  features for server owners to enhance their server.
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]   
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  better at diagnosing lag problems over v1.
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]   
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  All of your plugins should still work, and the
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]   
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[[36;1m22:14:14[39;0m [33;1mWARN[39;0m]: [WorldEdit] ====================================================
+[[36;1m22:14:14[39;0m [32;22mINFO[39;0m]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, farmersdelight:unaffected_by_rich_soil, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, cfm:fences/upgraded, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, cfm:fences/picket, forge:gravel, forge:glass_panes/cyan, farmersdelight:wild_crops, forge:storage_blocks/redstone, forge:glass_panes/light_gray, minecraft:wool, sereneseasons:winter_crops, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, sereneseasons:unbreakable_infertile_crops, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, farmersdelight:compost_activators, farmersdelight:heat_conductors, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, appletreesrev:saplings, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, create:fan_heaters, forge:glass_panes/purple, forge:glass/yellow, locksmith:lockable, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:mineable/pickaxe, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, cfm:fence_gates/picket, forge:storage_blocks/neptunium, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, appletreesrev:apple_logs, minecraft:jungle_logs, cfm:fences/hedge, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, cfm:fence_gates/upgraded, minecraft:base_stone_nether, minecraft:wall_signs, sereneseasons:spring_crops, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden, sereneseasons:summer_crops]
+[[36;1m22:14:14[39;0m [32;22mINFO[39;0m]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, farmersdelight:unaffected_by_rich_soil, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, cfm:fences/upgraded, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, cfm:fences/picket, forge:gravel, forge:glass_panes/cyan, farmersdelight:wild_crops, forge:storage_blocks/redstone, forge:glass_panes/light_gray, minecraft:wool, sereneseasons:winter_crops, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, sereneseasons:unbreakable_infertile_crops, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, farmersdelight:compost_activators, farmersdelight:heat_conductors, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, appletreesrev:saplings, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, create:fan_heaters, forge:glass_panes/purple, forge:glass/yellow, locksmith:lockable, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:mineable/pickaxe, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, cfm:fence_gates/picket, forge:storage_blocks/neptunium, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, appletreesrev:apple_logs, minecraft:jungle_logs, cfm:fences/hedge, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, cfm:fence_gates/upgraded, minecraft:base_stone_nether, minecraft:wall_signs, sereneseasons:spring_crops, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden, sereneseasons:summer_crops]
+[[36;1m22:14:14[39;0m [32;22mINFO[39;0m]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, farmersdelight:unaffected_by_rich_soil, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, cfm:fences/upgraded, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, cfm:fences/picket, forge:gravel, forge:glass_panes/cyan, farmersdelight:wild_crops, forge:storage_blocks/redstone, forge:glass_panes/light_gray, minecraft:wool, sereneseasons:winter_crops, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, sereneseasons:unbreakable_infertile_crops, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, farmersdelight:compost_activators, farmersdelight:heat_conductors, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, appletreesrev:saplings, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, create:fan_heaters, forge:glass_panes/purple, forge:glass/yellow, locksmith:lockable, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:mineable/pickaxe, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, cfm:fence_gates/picket, forge:storage_blocks/neptunium, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, appletreesrev:apple_logs, minecraft:jungle_logs, cfm:fences/hedge, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, cfm:fence_gates/upgraded, minecraft:base_stone_nether, minecraft:wall_signs, sereneseasons:spring_crops, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden, sereneseasons:summer_crops]
+[22:14:15][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:42] Loading Linked Npcs
+[22:14:15][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:62] Done loading Linked Npcs
+[[36;1m22:14:15[39;0m [32;22mINFO[39;0m]: Preparing level "spawn"
+[[36;1m22:14:15[39;0m [32;22mINFO[39;0m]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[[36;1m22:14:15[39;0m [32;22mINFO[39;0m]: [Essentials] Enabling Essentials v2.19.4
+[[36;1m22:14:15[39;0m [31;1mERROR[39;0m]: [Essentials] You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[[36;1m22:14:15[39;0m [32;22mINFO[39;0m]: [Essentials] Status determining class: net.minecraftforge.common.MinecraftForge
+[[36;1m22:14:17[39;0m [32;22mINFO[39;0m]: Attempting to convert old kits in config.yml to new kits.yml
+[[36;1m22:14:17[39;0m [32;22mINFO[39;0m]: No kits found to migrate.
+[[36;1m22:14:17[39;0m [32;22mINFO[39;0m]: Loaded 36926 items from items.json.
+[[36;1m22:14:17[39;0m [32;22mINFO[39;0m]: Using locale en_US
+[[36;1m22:14:18[39;0m [32;22mINFO[39;0m]: [Essentials] ServerListPingEvent: Spigot iterator API
+[[36;1m22:14:18[39;0m [32;22mINFO[39;0m]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[[36;1m22:14:18[39;0m [32;22mINFO[39;0m]: [Essentials] Using superperms-based permissions.
+[[36;1m22:14:18[39;0m [32;22mINFO[39;0m]: [LoginSecurity] Enabling LoginSecurity v3.1
+[[36;1m22:14:18[39;0m [32;22mINFO[39;0m]: [LoginSecurity] Loading base translations from "en_us"
+[[36;1m22:14:18[39;0m [32;22mINFO[39;0m]: [LoginSecurity] Loading specified translations from "en_us"
+[[36;1m22:14:19[39;0m [32;22mINFO[39;0m]: [LoginSecurity] Registering commands...
+[[36;1m22:14:19[39;0m [32;22mINFO[39;0m]: [LoginSecurity] Registering listeners...
+[[36;1m22:14:19[39;0m [32;22mINFO[39;0m]: [LoginSecurity] Using 1.12+ map captcha renderer
+[[36;1m22:14:19[39;0m [32;22mINFO[39;0m]: [SimpleSit] Enabling SimpleSit v1.7
+[[36;1m22:14:20[39;0m [32;22mINFO[39;0m]: Server permissions file permissions.yml is empty, ignoring it
+[[36;1m22:14:21[39;0m [32;22mINFO[39;0m]: Preparing start region for dimension minecraft:overworld
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:22[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:23[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:23[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:24[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:25[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:25[39;0m [32;22mINFO[39;0m]: Preparing spawn area: 0%
+[[36;1m22:14:25[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:26[39;0m [32;22mINFO[39;0m]: Preparing spawn area: 62%
+[[36;1m22:14:27[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:28[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:28[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:30[39;0m [32;22mINFO[39;0m]: Preparing spawn area: 100%
+[[36;1m22:14:30[39;0m [32;22mINFO[39;0m]: Time elapsed: 8,878 ms
+[[36;1m22:14:30[39;0m [32;22mINFO[39;0m]: Done (15.951s)! For help, type "help"
+[[36;1m22:14:31[39;0m [33;1mWARN[39;0m]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.mohistmc.forge.BukkitPermissionsHandler
+[[36;1m22:14:31[39;0m [32;22mINFO[39;0m]: Generating diet values...
+[[36;1m22:14:31[39;0m [32;22mINFO[39;0m]: Finding ungrouped food items...
+[[36;1m22:14:31[39;0m [32;22mINFO[39;0m]: Found 102 ungrouped food items
+[[36;1m22:14:31[39;0m [32;22mINFO[39;0m]: Building item-to-recipes map...
+[[36;1m22:14:31[39;0m [32;22mINFO[39;0m]: Found 1334 valid items with recipes
+[[36;1m22:14:31[39;0m [32;22mINFO[39;0m]: Processing items...
+[[36;1m22:14:31[39;0m [32;22mINFO[39;0m]: Processed 147 items
+[[36;1m22:14:31[39;0m [32;22mINFO[39;0m]: Generating diet values took 29.26 ms
+[[36;1m22:14:31[39;0m [32;22mINFO[39;0m]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[[36;1m22:14:32[39;0m [33;1mWARN[39;0m]: Config outdated. Check https://github.com/plasmoapp/plasmo-voice/wiki/How-to-install-Server for new config.
+[[36;1m22:14:32[39;0m [32;22mINFO[39;0m]: Voice UDP server started on /217.106.106.183:26472
+[22:14:32][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:41] Loading Dialogs
+[22:14:32][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:43] Done loading Dialogs
+[[36;1m22:14:32[39;0m [32;22mINFO[39;0m]: Timings Reset
+[[36;1m22:14:33[39;0m [32;22mINFO[39;0m]: [Essentials] [0;33mFetching version information...[m
+[[36;1m22:14:38[39;0m [32;22mINFO[39;0m]: UUID of player Vori1 is c35b176e-f4f8-35db-b4d0-cd535b931e41
+[[36;1m22:14:38[39;0m [32;22mINFO[39;0m]: Client attempting to join with 19 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:14:41[39;0m [32;22mINFO[39;0m]: Vori1[/82.151.125.38:4229] logged in with entity id 450 at (7,183.288, 71, -1,516.795)
+[[36;1m22:14:42[39;0m [32;22mINFO[39;0m]: UUID of player Metamorf2008 is 44a521b1-a1a8-3114-9610-d26cc8dad6c0
+[[36;1m22:14:42[39;0m [32;22mINFO[39;0m]: UUID of player kakasi565698 is 7cf0ff01-6d4f-34e4-bb15-face48845b01
+[[36;1m22:14:43[39;0m [32;22mINFO[39;0m]: Client attempting to join with 20 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, torohealth, tlskincape, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:14:43[39;0m [32;22mINFO[39;0m]: Client attempting to join with 22 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, jei, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, torohealth, tlskincape, xaerominimap, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:14:46[39;0m [32;22mINFO[39;0m]: kakasi565698[/80.95.44.189:2524] logged in with entity id 452 at (7,262.53, 117.5, -1,627.831)
+[[36;1m22:14:47[39;0m [32;22mINFO[39;0m]: Metamorf2008[/82.215.105.119:7225] logged in with entity id 454 at (7,180.538, 71, -1,500.585)
+[[36;1m22:15:09[39;0m [32;22mINFO[39;0m]: UUID of player LandGraft2 is d0d1e8fe-5387-33a7-b600-1988f22c61c3
+[[36;1m22:15:09[39;0m [32;22mINFO[39;0m]: Client attempting to join with 22 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, jei, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, torohealth, tlskincape, xaerominimap, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:15:11[39;0m [32;22mINFO[39;0m]: LandGraft2[/213.24.134.160:5143] logged in with entity id 494 at (7,182.27, 71, -1,546.326)
+[[36;1m22:15:12[39;0m [32;22mINFO[39;0m]: UUID of player Terorie is 27afa972-c0d7-332d-9338-ea2343f177e9
+[[36;1m22:15:12[39;0m [32;22mINFO[39;0m]: Client attempting to join with 20 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, neat, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:15:16[39;0m [32;22mINFO[39;0m]: Terorie[/46.159.85.65:63935] logged in with entity id 495 at (7,122.3, 77, -1,541.3)
+[[36;1m22:15:54[39;0m [32;22mINFO[39;0m]: UUID of player pahaza789 is 5aa7f7c4-2e9c-35ec-859d-e0c9cd6a4928
+[[36;1m22:15:54[39;0m [32;22mINFO[39;0m]: Client attempting to join with 19 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:15:56[39;0m [32;22mINFO[39;0m]: pahaza789[/46.48.114.78:58907] logged in with entity id 510 at (7,251.243, 131, -1,709.022)
+[[36;1m22:16:14[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> Продаю не дорого жарененую солёную рыбку в лайрке в месте с огромным мечем свехру[m
+[[36;1m22:16:42[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /gm 1
+[[36;1m22:17:31[39;0m [32;22mINFO[39;0m]: <pahaza789> учитель
+[[36;1m22:17:38[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> Продаю не дорого жарененую солёную рыбку в лайрке в месте с огромным мечем свехру[m
+[[36;1m22:17:39[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /gm 0
+[[36;1m22:17:56[39;0m [32;22mINFO[39;0m]: <[0;31mMetamorf2008[m> g][m
+[[36;1m22:18:11[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /gm 1
+[[36;1m22:18:11[39;0m [32;22mINFO[39;0m]: <[0;31mMetamorf2008[m> gv[m
+[[36;1m22:18:44[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /gm 0
+[[36;1m22:18:45[39;0m [32;22mINFO[39;0m]: UUID of player gosagoar1 is f5cebee1-9c7c-3ea6-8f10-cfd698accfdc
+[[36;1m22:18:45[39;0m [32;22mINFO[39;0m]: Client attempting to join with 20 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, neat, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:18:47[39;0m [32;22mINFO[39;0m]: gosagoar1[/85.249.161.102:52359] logged in with entity id 606 at (7,259.602, 131, -1,705.925)
+[[36;1m22:19:13[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> сдох[m
+[[36;1m22:19:20[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ладно[m
+[[36;1m22:19:36[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> где рыбка[m
+[[36;1m22:19:40[39;0m [33;1mWARN[39;0m]: Metamorf2008 moved too quickly! -19.489,0,-0.987
+[[36;1m22:19:45[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> вы хотели рыбу[m
+[[36;1m22:19:56[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> жареная тушона?[m
+[[36;1m22:20:05[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> а[m
+[[36;1m22:20:08[39;0m [32;22mINFO[39;0m]: UUID of player Nik_Simin is 8c4e84c1-39ed-30e1-9941-a03ce2e2a6be
+[[36;1m22:20:09[39;0m [32;22mINFO[39;0m]: Client attempting to join with 19 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:20:09[39;0m [32;22mINFO[39;0m]: com.mojang.authlib.GameProfile@4a8561f2[id=8c4e84c1-39ed-30e1-9941-a03ce2e2a6be,name=Nik_Simin,properties={},legacy=false] (/85.249.32.245:6099) lost connection: Disconnected
+[[36;1m22:20:13[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> 5-3з[m
+[[36;1m22:20:25[39;0m [32;22mINFO[39;0m]: UUID of player Nik_Simin is 8c4e84c1-39ed-30e1-9941-a03ce2e2a6be
+[[36;1m22:20:25[39;0m [32;22mINFO[39;0m]: Client attempting to join with 19 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:20:26[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> 5р-3изум[m
+[[36;1m22:20:30[39;0m [32;22mINFO[39;0m]: Nik_Simin[/85.249.32.245:6273] logged in with entity id 627 at (7,179.843, 71, -1,500.982)
+[[36;1m22:20:59[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp pahaza789 gosagoar1
+[[36;1m22:21:05[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> рыбку[m
+[[36;1m22:21:40[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> свободна[m
+[[36;1m22:21:52[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> что[m
+[[36;1m22:23:31[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> !?!!??!?![m
+[[36;1m22:23:36[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ТЫ БЛЯТЬ ЧТО СДЕЛАЛ[m
+[[36;1m22:23:41[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ТЫ ЧТО ТОКО ЩАС СДЕЛАЛ[m
+[[36;1m22:23:44[39;0m [32;22mINFO[39;0m]: <[0;31mgosagoar1[m> Тренировка со столпами:Каждый Столп курирует свою часть тренировки. Известные тренировки включают базовую тренировку выносливости, тренировку гибкости, тренировку быстрых движений, тренировку навыков владения мечом, тренировку ударов[m
+[[36;1m22:23:48[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ПЯТКИ ЦЫЛУЙ[m
+[[36;1m22:23:57[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ДВЕРЬ ЗАКРОЙ[m
+[[36;1m22:23:59[39;0m [32;22mINFO[39;0m]: <[0;31mgosagoar1[m> и тренировку укрепления мышц.[m
+[[36;1m22:24:02[39;0m [32;22mINFO[39;0m]: UUID of player TheMuroslav is 91c56585-9be2-34ed-8368-76f4f499373b
+[[36;1m22:24:02[39;0m [31;1mERROR[39;0m]: Received empty payload on channel fml:handshake
+[[36;1m22:24:02[39;0m [32;22mINFO[39;0m]: Disconnecting com.mojang.authlib.GameProfile@7045dbe4[id=91c56585-9be2-34ed-8368-76f4f499373b,name=TheMuroslav,properties={},legacy=false] (/188.233.23.215:60440): Unexpected custom data from client
+[[36;1m22:24:02[39;0m [32;22mINFO[39;0m]: com.mojang.authlib.GameProfile@7045dbe4[id=91c56585-9be2-34ed-8368-76f4f499373b,name=TheMuroslav,properties={},legacy=false] (/188.233.23.215:60440) lost connection: Unexpected custom data from client
+[[36;1m22:24:07[39;0m [32;22mINFO[39;0m]: UUID of player TheMuroslav is 91c56585-9be2-34ed-8368-76f4f499373b
+[[36;1m22:24:07[39;0m [31;1mERROR[39;0m]: Received empty payload on channel fml:handshake
+[[36;1m22:24:07[39;0m [32;22mINFO[39;0m]: Disconnecting com.mojang.authlib.GameProfile@6f584d64[id=91c56585-9be2-34ed-8368-76f4f499373b,name=TheMuroslav,properties={},legacy=false] (/188.233.23.215:60450): Unexpected custom data from client
+[[36;1m22:24:07[39;0m [32;22mINFO[39;0m]: com.mojang.authlib.GameProfile@6f584d64[id=91c56585-9be2-34ed-8368-76f4f499373b,name=TheMuroslav,properties={},legacy=false] (/188.233.23.215:60450) lost connection: Unexpected custom data from client
+[[36;1m22:24:19[39;0m [32;22mINFO[39;0m]: <Vori1> госагор мон вопрос 1 на 1
+[[36;1m22:24:21[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> а[m
+[[36;1m22:24:38[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode creative
+[[36;1m22:24:54[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /give LandGraft2 minecraft:water_bucket
+[[36;1m22:24:54[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode survival
+[[36;1m22:24:56[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /give LandGraft2 minecraft:water_bucket 1
+[[36;1m22:25:00[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /give LandGraft2 minecraft:water_bucket 64
+[[36;1m22:25:03[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /gm 1
+[[36;1m22:25:09[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /gm 0
+[[36;1m22:25:14[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Vori1
+[[36;1m22:25:23[39;0m [32;22mINFO[39;0m]: gosagoar1 lost connection: Disconnected
+[[36;1m22:25:23[39;0m [32;22mINFO[39;0m]: gosagoar1 left the game
+[[36;1m22:25:25[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> нет тут сидеть будем[m
+[[36;1m22:25:59[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> что то другое есть[m
+[[36;1m22:26:06[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode creative
+[[36;1m22:26:20[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:26:37[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> и вправду вкусно[m
+[[36;1m22:26:39[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode survival
+[[36;1m22:26:51[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> воды[m
+[[36;1m22:26:55[39;0m [32;22mINFO[39;0m]: <pahaza789> стучит*
+[[36;1m22:27:01[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:27:03[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:27:21[39;0m [32;22mINFO[39;0m]: UUID of player gosagoar1 is f5cebee1-9c7c-3ea6-8f10-cfd698accfdc
+[[36;1m22:27:21[39;0m [32;22mINFO[39;0m]: Client attempting to join with 20 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, neat, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:27:24[39;0m [32;22mINFO[39;0m]: gosagoar1[/85.249.161.102:52361] logged in with entity id 997 at (7,181.514, 68.881, -1,526.938)
+[[36;1m22:27:28[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> кто там[m
+[[36;1m22:27:36[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode creative
+[[36;1m22:27:54[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode survival
+[[36;1m22:27:58[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ?1 ухты[m
+[[36;1m22:28:16[39;0m [32;22mINFO[39;0m]: <Vori1> VEPFY DFKB C>LF
+[[36;1m22:28:17[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> вкусно и арбузик сочный[m
+[[36;1m22:28:23[39;0m [32;22mINFO[39;0m]: <Vori1> МУЗАН ВАЛИ СЮДА
+[[36;1m22:28:47[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ТЫ ПОПРОСИ ЛМЕНЯ ВСТАТЬ ИЗА УБИВСТВО ОХОТНИКА У КОТОРОВО ДАЖЕ НЕТ КАТ??!?!?!?!?[m
+[[36;1m22:29:07[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ВЫКИНЬ ЭТО ПОЗЁРЕЩЕ[m
+[[36;1m22:29:16[39;0m [32;22mINFO[39;0m]: <Vori1> МУЗАН СЮДЫ ВАЛИ
+[[36;1m22:29:30[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /tp Vori1
+[[36;1m22:29:39[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> рыбы[m
+[[36;1m22:29:44[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /tp LandGraft2 Metamorf2008
+[[36;1m22:29:51[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ""!!"!"[m
+[[36;1m22:29:53[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /tp LandGraft2
+[[36;1m22:29:57[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /tp LandGraft2 Metamorf2008
+[[36;1m22:30:04[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin
+[[36;1m22:30:04[39;0m [32;22mINFO[39;0m]: <Nik_Simin> (
+[[36;1m22:30:05[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> rfvyt[m
+[[36;1m22:30:13[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> камне двей откройте[m
+[[36;1m22:30:26[39;0m [32;22mINFO[39;0m]: <Vori1> МУЗАН МЫ НЕ ДОГОВОРИЛИ!
+[[36;1m22:30:29[39;0m [32;22mINFO[39;0m]: <Vori1> СЮДА ВАЛИ
+[[36;1m22:30:32[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode creative
+[[36;1m22:30:42[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode survival
+[[36;1m22:30:47[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> смерть человека[m
+[[36;1m22:30:51[39;0m [32;22mINFO[39;0m]: <Vori1> -_-
+[[36;1m22:31:02[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode creative
+[[36;1m22:31:14[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:31:17[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode survival
+[[36;1m22:31:20[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:31:36[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement grant gosagoar1 through kimetsunoyaiba:breathing_100
+[[36;1m22:31:38[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> все за человеком[m
+[[36;1m22:31:45[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:32:02[39;0m [32;22mINFO[39;0m]: UUID of player TheMuroslav is 91c56585-9be2-34ed-8368-76f4f499373b
+[[36;1m22:32:03[39;0m [31;1mERROR[39;0m]: Received empty payload on channel fml:handshake
+[[36;1m22:32:03[39;0m [32;22mINFO[39;0m]: Disconnecting com.mojang.authlib.GameProfile@2edc46aa[id=91c56585-9be2-34ed-8368-76f4f499373b,name=TheMuroslav,properties={},legacy=false] (/188.233.23.215:60579): Unexpected custom data from client
+[[36;1m22:32:03[39;0m [32;22mINFO[39;0m]: com.mojang.authlib.GameProfile@2edc46aa[id=91c56585-9be2-34ed-8368-76f4f499373b,name=TheMuroslav,properties={},legacy=false] (/188.233.23.215:60579) lost connection: Unexpected custom data from client
+[[36;1m22:32:07[39;0m [32;22mINFO[39;0m]: <kakasi565698> Terorie рыбы надо?
+[[36;1m22:33:39[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:33:41[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:34:17[39;0m [32;22mINFO[39;0m]: pahaza789 issued server command: /sit
+[[36;1m22:34:31[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:34:40[39;0m [32;22mINFO[39;0m]: <pahaza789> учитель есть инфа
+[[36;1m22:36:11[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> нет[m
+[[36;1m22:37:22[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> ухуу[m
+[[36;1m22:37:23[39;0m [32;22mINFO[39;0m]: UUID of player TheMuroslav is 91c56585-9be2-34ed-8368-76f4f499373b
+[[36;1m22:37:23[39;0m [32;22mINFO[39;0m]: Client attempting to join with 20 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, neat, diet, appletreesrev, drinkbeer, citadel
+[[36;1m22:37:26[39;0m [32;22mINFO[39;0m]: TheMuroslav[/188.233.23.215:54410] logged in with entity id 1,276 at (7,194.5, 71, -1,483.5)
+[[36;1m22:37:28[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:37:29[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> что ты там говорила[m
+[[36;1m22:37:32[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> анпомни[m
+[[36;1m22:37:37[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement grant pahaza789 through
+[[36;1m22:37:45[39;0m [32;22mINFO[39;0m]: <kakasi565698> вы не договарили
+[[36;1m22:37:50[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /tp Vori1 Terorie
+[[36;1m22:37:51[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement grant pahaza789 through kimetsunoyaiba:kanoto
+[[36;1m22:37:51[39;0m [32;22mINFO[39;0m]: [gosagoar1: Granted 13 advancements to pahaza789]
+[[36;1m22:37:57[39;0m [32;22mINFO[39;0m]: <Vori1> ГОСАГОР ПОСАДИ В ТЮРЯГУ
+[[36;1m22:38:03[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /team join hidnea TheMuroslav
+[[36;1m22:38:03[39;0m [32;22mINFO[39;0m]: [TheMuroslav: Added TheMuroslav to team [hidnea]]
+[[36;1m22:38:10[39;0m [32;22mINFO[39;0m]: <kakasi565698> каго?
+[[36;1m22:38:15[39;0m [32;22mINFO[39;0m]: <Vori1> меня
+[[36;1m22:38:15[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode creative
+[[36;1m22:38:23[39;0m [32;22mINFO[39;0m]: <kakasi565698> зачем xD
+[[36;1m22:38:36[39;0m [32;22mINFO[39;0m]: <Vori1> надо
+[[36;1m22:38:37[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode creative
+[[36;1m22:38:40[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode survival
+[[36;1m22:38:52[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke pahaza789 through kimetsunoyaiba:hashira
+[[36;1m22:38:52[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked 13 advancements from pahaza789]
+[[36;1m22:38:58[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /effect clear pahaza789
+[[36;1m22:38:58[39;0m [32;22mINFO[39;0m]: [gosagoar1: Removed every effect from pahaza789]
+[[36;1m22:38:58[39;0m [32;22mINFO[39;0m]: <Vori1> ГОСАГОР
+[[36;1m22:38:58[39;0m [33;1mWARN[39;0m]: Vori1 moved too quickly! 8.327,0.252,-5.662
+[[36;1m22:39:01[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:39:05[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:39:21[39;0m [32;22mINFO[39;0m]: kakasi565698 issued server command: /sit
+[[36;1m22:39:22[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement grant pahaza789 until kimetsunoyaiba:kanoto
+[[36;1m22:39:22[39;0m [32;22mINFO[39;0m]: [gosagoar1: Granted 5 advancements to pahaza789]
+[[36;1m22:39:32[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 1
+[[36;1m22:39:32[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:39:32[39;0m [32;22mINFO[39;0m]: <kakasi565698> *спит*
+[[36;1m22:40:06[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:40:08[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 0
+[[36;1m22:40:12[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:40:13[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode creative
+[[36;1m22:40:17[39;0m [32;22mINFO[39;0m]: <[0;31mTerorie[m> видите его в вашь дом[m
+[[36;1m22:40:21[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 1
+[[36;1m22:40:40[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 0
+[[36;1m22:40:44[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 1
+[[36;1m22:40:47[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 0
+[[36;1m22:40:53[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement grant Vori1 through kimetsunoyaiba:hashira
+[[36;1m22:40:53[39;0m [32;22mINFO[39;0m]: [gosagoar1: Granted 13 advancements to Vori1]
+[[36;1m22:41:59[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:42:11[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement grant Vori1 through kimetsunoyaiba:receive_20_damage
+[[36;1m22:42:11[39;0m [32;22mINFO[39;0m]: [gosagoar1: Granted 20 advancements to Vori1]
+[[36;1m22:42:26[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:42:33[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode survival
+[[36;1m22:42:34[39;0m [32;22mINFO[39;0m]: <kakasi565698> кому дать бесплатно брёвна ёлки?
+[[36;1m22:42:51[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:42:53[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:42:54[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:43:41[39;0m [32;22mINFO[39;0m]: pahaza789 lost connection: Disconnected
+[[36;1m22:43:41[39;0m [32;22mINFO[39;0m]: pahaza789 left the game
+[[36;1m22:43:45[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /gm 1
+[[36;1m22:44:23[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:breathing_20
+[[36;1m22:44:23[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Breathing 20] from gosagoar1]
+[[36;1m22:44:25[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:breathing_40
+[[36;1m22:44:25[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Breathing 40] from gosagoar1]
+[[36;1m22:44:28[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:breathing_60
+[[36;1m22:44:28[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Breathing 60] from gosagoar1]
+[[36;1m22:44:29[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:breathing_80
+[[36;1m22:44:29[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Breathing 80] from gosagoar1]
+[[36;1m22:44:31[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:breathing_100
+[[36;1m22:44:31[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Breathing 100] from gosagoar1]
+[[36;1m22:44:39[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:transparent_world
+[[36;1m22:44:39[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [[Skill] Transparent World (WIP)] from gosagoar1]
+[[36;1m22:44:53[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:demon_slayer_mark
+[[36;1m22:44:53[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [[Skill] Demon Slayer Mark] from gosagoar1]
+[[36;1m22:44:56[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:receive_20_damage
+[[36;1m22:44:56[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Receive 40 Damage] from gosagoar1]
+[[36;1m22:44:59[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:receive_40_damage
+[[36;1m22:44:59[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Receive 80 Damage] from gosagoar1]
+[[36;1m22:45:08[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:receive_60_damage40_damage
+[[36;1m22:45:14[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:receive_60_damage
+[[36;1m22:45:14[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Receive 160 Damage] from gosagoar1]
+[[36;1m22:45:17[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:receive_80_damage
+[[36;1m22:45:17[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Receive 240 Damage] from gosagoar1]
+[[36;1m22:45:20[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:receive_100_damage
+[[36;1m22:45:20[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Receive 320 Damage] from gosagoar1]
+[[36;1m22:45:31[39;0m [32;22mINFO[39;0m]: Terorie issued server command: /gm 0
+[[36;1m22:45:33[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:demon_kill_count_10
+[[36;1m22:45:33[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Demon Killer 10] from gosagoar1]
+[[36;1m22:45:35[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:demon_kill_count_20
+[[36;1m22:45:35[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Demon Killer 20] from gosagoar1]
+[[36;1m22:45:36[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:demon_kill_count_3-
+[[36;1m22:45:37[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:demon_kill_count_30
+[[36;1m22:45:37[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Demon Killer 30] from gosagoar1]
+[[36;1m22:45:39[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:demon_kill_count_40
+[[36;1m22:45:39[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Demon Killer 40] from gosagoar1]
+[[36;1m22:45:40[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:demon_kill_count_50
+[[36;1m22:45:40[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [Demon Killer 50] from gosagoar1]
+[[36;1m22:45:52[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode spectator
+[[36;1m22:45:53[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /advancement revoke gosagoar1 only kimetsunoyaiba:crimson_red_nichirin_blade
+[[36;1m22:45:53[39;0m [32;22mINFO[39;0m]: [gosagoar1: Revoked the advancement [[Skill] Crimson Red Nichirin Blade] from gosagoar1]
+[[36;1m22:45:57[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode survival
+[[36;1m22:46:07[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode creative
+[[36;1m22:46:19[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 1
+[[36;1m22:46:20[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode survival
+[[36;1m22:46:36[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:46:39[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:46:40[39;0m [32;22mINFO[39;0m]: kakasi565698 issued server command: /sit
+[[36;1m22:46:47[39;0m [32;22mINFO[39;0m]: kakasi565698 lost connection: Disconnected
+[[36;1m22:46:47[39;0m [32;22mINFO[39;0m]: kakasi565698 left the game
+[[36;1m22:46:48[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 2
+[[36;1m22:47:10[39;0m [32;22mINFO[39;0m]: Terorie lost connection: Timed out
+[[36;1m22:47:10[39;0m [32;22mINFO[39;0m]: Terorie left the game
+[[36;1m22:47:18[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode creative
+[[36;1m22:47:28[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode survival
+[[36;1m22:47:35[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode creative
+[[36;1m22:47:54[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /heal
+[[36;1m22:48:02[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:02[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /heal
+[[36;1m22:48:02[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:03[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:04[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:04[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode survival
+[[36;1m22:48:04[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:07[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /heal
+[[36;1m22:48:13[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /heal
+[[36;1m22:48:18[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /heal
+[[36;1m22:48:24[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /heal
+[[36;1m22:48:29[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode creative
+[[36;1m22:48:31[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /heal
+[[36;1m22:48:36[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:37[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:37[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:38[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:39[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:39[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:40[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:40[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:41[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:42[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:42[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:43[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:43[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:44[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:45[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:48:50[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:49:04[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode survival
+[[36;1m22:50:25[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode creative
+[[36;1m22:50:35[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode survival
+[[36;1m22:51:25[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:52:07[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:52:09[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:52:24[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode creative
+[[36;1m22:52:27[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode survival
+[[36;1m22:52:59[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:55:13[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:55:39[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:55:40[39;0m [32;22mINFO[39;0m]: [@: Gave 64 [Spruce Log] to gosagoar1]
+[[36;1m22:55:41[39;0m [32;22mINFO[39;0m]: [@: Gave 64 [Oak Log] to gosagoar1]
+[[36;1m22:55:42[39;0m [32;22mINFO[39;0m]: [@: Gave 64 [Birch Log] to gosagoar1]
+[[36;1m22:55:44[39;0m [32;22mINFO[39;0m]: [@: Gave 64 [Jungle Log] to gosagoar1]
+[[36;1m22:55:45[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 1
+[[36;1m22:55:53[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:55:53[39;0m [32;22mINFO[39;0m]: TheMuroslav issued server command: /gamemode 0
+[[36;1m22:56:27[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:58:13[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:58:23[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:58:30[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode spectator
+[[36;1m22:58:35[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:58:35[39;0m [32;22mINFO[39;0m]: Metamorf2008 issued server command: /gamemode survival
+[[36;1m22:58:37[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:59:09[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:59:10[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:59:11[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:59:11[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:59:12[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:59:12[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m22:59:36[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:00:48[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:01:16[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:01:33[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode creative
+[[36;1m23:01:36[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode survival
+[[36;1m23:01:50[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:01:52[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:02:25[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode spectator
+[[36;1m23:02:25[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:02:27[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin
+[[36;1m23:02:49[39;0m [33;1mWARN[39;0m]: Vori1 moved wrongly!
+[[36;1m23:02:49[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:02:55[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:02:58[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode survival
+[[36;1m23:03:00[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:03:16[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:03:17[39;0m [32;22mINFO[39;0m]: Metamorf2008 lost connection: Disconnected
+[[36;1m23:03:17[39;0m [32;22mINFO[39;0m]: Metamorf2008 left the game
+[[36;1m23:03:28[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:04:01[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:04:19[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:04:31[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:05:14[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:05:46[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:07:25[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:07:53[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:08:13[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:08:30[39;0m [32;22mINFO[39;0m]: <Nik_Simin> тп госагор
+[[36;1m23:08:35[39;0m [32;22mINFO[39;0m]: <Nik_Simin> к себе
+[[36;1m23:08:36[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:08:45[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:08:50[39;0m [32;22mINFO[39;0m]: LandGraft2 lost connection: Disconnected
+[[36;1m23:08:50[39;0m [32;22mINFO[39;0m]: LandGraft2 left the game
+[[36;1m23:08:52[39;0m [32;22mINFO[39;0m]: <Nik_Simin> к себе
+[[36;1m23:08:56[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /gamemode creative
+[[36;1m23:09:00[39;0m [32;22mINFO[39;0m]: <Nik_Simin> тп сань
+[[36;1m23:10:45[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:11:12[39;0m [32;22mINFO[39;0m]: <Nik_Simin> of
+[[36;1m23:11:14[39;0m [32;22mINFO[39;0m]: <Nik_Simin> ща
+[[36;1m23:11:25[39;0m [32;22mINFO[39;0m]: <Nik_Simin> 5 сек провод вставлю для науш
+[[36;1m23:13:56[39;0m [32;22mINFO[39;0m]: <Nik_Simin> ща перезайду
+[[36;1m23:14:00[39;0m [32;22mINFO[39;0m]: Nik_Simin lost connection: Disconnected
+[[36;1m23:14:00[39;0m [32;22mINFO[39;0m]: Nik_Simin left the game
+[[36;1m23:15:21[39;0m [31;1mERROR[39;0m]: Attempted to add food stats to a null player!
+[[36;1m23:15:24[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /give gosagoar1 item_frame{EntityTag:{Invisible:1b}} 1
+[[36;1m23:17:46[39;0m [32;22mINFO[39;0m]: UUID of player Nik_Simin is 8c4e84c1-39ed-30e1-9941-a03ce2e2a6be
+[[36;1m23:17:46[39;0m [32;22mINFO[39;0m]: Client attempting to join with 19 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, diet, appletreesrev, drinkbeer, citadel
+[[36;1m23:17:49[39;0m [32;22mINFO[39;0m]: Nik_Simin[/85.249.32.245:6271] logged in with entity id 3,044 at (7,233.985, 75, -1,562.076)
+[[36;1m23:18:09[39;0m [32;22mINFO[39;0m]: <Nik_Simin> ау я тут бл
+[[36;1m23:18:26[39;0m [32;22mINFO[39;0m]: <Nik_Simin> вы где
+[[36;1m23:18:31[39;0m [32;22mINFO[39;0m]: <Vori1> у меня дома
+[[36;1m23:19:04[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:19:14[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /sit
+[[36;1m23:19:20[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:20:38[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:21:17[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /sit
+[[36;1m23:21:21[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:21:23[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /sit
+[[36;1m23:21:43[39;0m [32;22mINFO[39;0m]: Vori1 issued server command: /sit
+[[36;1m23:21:48[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:21:55[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:22:00[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:22:32[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:22:43[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:22:46[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /sit
+[[36;1m23:22:47[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:23:11[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:23:12[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /sit
+[[36;1m23:23:16[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:23:18[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /sit
+[[36;1m23:23:35[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:23:37[39;0m [32;22mINFO[39;0m]: Vori1 issued server command: /sit
+[[36;1m23:23:43[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:23:46[39;0m [32;22mINFO[39;0m]: Vori1 issued server command: /sit
+[[36;1m23:24:02[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:24:19[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:25:08[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:25:24[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:25:58[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:26:32[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:26:32[39;0m [32;22mINFO[39;0m]: <Vori1> sit
+[[36;1m23:26:35[39;0m [32;22mINFO[39;0m]: Vori1 issued server command: /sit
+[[36;1m23:26:57[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:27:16[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:27:19[39;0m [32;22mINFO[39;0m]: Nik_Simin issued server command: /sit
+[[36;1m23:28:55[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /sit
+[[36;1m23:28:56[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:28:57[39;0m [32;22mINFO[39;0m]: Vori1 issued server command: /sit
+[[36;1m23:29:05[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:30:14[39;0m [32;22mINFO[39;0m]: <Nik_Simin> тепехните
+[[36;1m23:30:16[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:30:21[39;0m [32;22mINFO[39;0m]: <Vori1> кааак
+[[36;1m23:30:38[39;0m [32;22mINFO[39;0m]: <Vori1> выруби и вруби наушники
+[[36;1m23:30:44[39;0m [32;22mINFO[39;0m]: <Vori1> или же перезайди
+[[36;1m23:30:50[39;0m [32;22mINFO[39;0m]: <Vori1> шо нибудь из этого
+[[36;1m23:30:52[39;0m [31;1mFATAL[39;0m]: Error executing task on Server
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]: java.lang.NullPointerException
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$MapVariables.func_76184_a(KimetsunoyaibaModVariables.java:158)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$WorldSavedDataSyncMessage.<init>(KimetsunoyaibaModVariables.java:262)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$0(IndexedMessageCodec.java:120)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:120)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:162)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:80)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:86)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:94)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:94)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:2655)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.PacketThreadUtil.lambda$ensureRunningOnSameThread$0(PacketThreadUtil.java:26)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:153)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:940)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:176)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:126)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:923)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:917)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:136)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:903)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:823)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:269)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at java.base/java.lang.Thread.run(Thread.java:834)
+[[36;1m23:30:52[39;0m [31;1mFATAL[39;0m]: Error executing task on Server
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]: java.lang.NullPointerException
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$MapVariables.func_76184_a(KimetsunoyaibaModVariables.java:158)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$WorldSavedDataSyncMessage.<init>(KimetsunoyaibaModVariables.java:262)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$0(IndexedMessageCodec.java:120)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:120)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:162)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:80)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:86)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:94)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:94)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:2655)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.PacketThreadUtil.lambda$ensureRunningOnSameThread$0(PacketThreadUtil.java:26)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:153)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:940)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:176)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:126)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:923)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:917)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(ThreadTaskExecutor.java:114)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:1041)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:819)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:269)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at java.base/java.lang.Thread.run(Thread.java:834)
+[[36;1m23:30:52[39;0m [31;1mFATAL[39;0m]: Error executing task on Server
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]: java.lang.NullPointerException
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$MapVariables.func_76184_a(KimetsunoyaibaModVariables.java:158)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$WorldSavedDataSyncMessage.<init>(KimetsunoyaibaModVariables.java:262)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$0(IndexedMessageCodec.java:120)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:120)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:162)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:80)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:86)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:94)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:94)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:2655)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.PacketThreadUtil.lambda$ensureRunningOnSameThread$0(PacketThreadUtil.java:26)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:153)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:940)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:176)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:126)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:923)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:917)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:136)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:903)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:823)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:269)
+[[36;1m23:30:52[39;0m [33;1mWARN[39;0m]:        at java.base/java.lang.Thread.run(Thread.java:834)
+[[36;1m23:30:53[39;0m [31;1mFATAL[39;0m]: Error executing task on Server
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]: java.lang.NullPointerException
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$MapVariables.func_76184_a(KimetsunoyaibaModVariables.java:158)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$WorldSavedDataSyncMessage.<init>(KimetsunoyaibaModVariables.java:262)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$0(IndexedMessageCodec.java:120)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:120)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:162)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:80)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:86)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:94)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:94)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:2655)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.PacketThreadUtil.lambda$ensureRunningOnSameThread$0(PacketThreadUtil.java:26)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:153)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:940)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:176)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:126)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:923)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:917)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:136)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:903)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:823)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:269)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at java.base/java.lang.Thread.run(Thread.java:834)
+[[36;1m23:30:53[39;0m [31;1mFATAL[39;0m]: Error executing task on Server
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]: java.lang.NullPointerException
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$MapVariables.func_76184_a(KimetsunoyaibaModVariables.java:158)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.mcreator.kimetsunoyaiba.KimetsunoyaibaModVariables$WorldSavedDataSyncMessage.<init>(KimetsunoyaibaModVariables.java:262)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$0(IndexedMessageCodec.java:120)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:120)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:162)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:80)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:86)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:94)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at java.base/java.util.Optional.map(Optional.java:265)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:94)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:2655)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.network.PacketThreadUtil.lambda$ensureRunningOnSameThread$0(PacketThreadUtil.java:26)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:153)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:940)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:176)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:126)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:923)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:917)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:136)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:996)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:819)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:269)
+[[36;1m23:30:53[39;0m [33;1mWARN[39;0m]:        at java.base/java.lang.Thread.run(Thread.java:834)
+[[36;1m23:30:55[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /sit
+[[36;1m23:31:06[39;0m [32;22mINFO[39;0m]: <Vori1> печааалька
+[[36;1m23:31:20[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:31:43[39;0m [32;22mINFO[39;0m]: <Vori1> ме ща спать идти лан спокойной ночи) и удачи
+[[36;1m23:31:52[39;0m [32;22mINFO[39;0m]: <Vori1> посторайся сделац свои наушники
+[[36;1m23:32:05[39;0m [32;22mINFO[39;0m]: <Vori1> ладн споки ребят
+[[36;1m23:32:06[39;0m [32;22mINFO[39;0m]: Vori1 lost connection: Disconnected
+[[36;1m23:32:06[39;0m [32;22mINFO[39;0m]: Vori1 left the game
+[[36;1m23:32:26[39;0m [32;22mINFO[39;0m]: <Nik_Simin> нууу хз
+[[36;1m23:32:40[39;0m [32;22mINFO[39;0m]: UUID of player Sim0i is 40cb4bd3-ebef-343d-8cff-c1a947ba5514
+[[36;1m23:32:40[39;0m [32;22mINFO[39;0m]: Client attempting to join with 19 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, diet, appletreesrev, drinkbeer, citadel
+[[36;1m23:32:42[39;0m [32;22mINFO[39;0m]: Sim0i[/92.127.216.155:61542] logged in with entity id 3,077 at (7,194.5, 71, -1,483.5)
+[[36;1m23:32:53[39;0m [32;22mINFO[39;0m]: <Nik_Simin> вытащи наушники если они у тя на проводе и вставь
+[[36;1m23:33:18[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:33:19[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /tp Nik_Simin gosagoar1
+[[36;1m23:33:23[39;0m [32;22mINFO[39;0m]: <Nik_Simin> хеех
+[[36;1m23:33:31[39;0m [32;22mINFO[39;0m]: <Nik_Simin> перезайди мне помогает
+[[36;1m23:33:36[39;0m [32;22mINFO[39;0m]: <Nik_Simin> но я тя слышу
+[[36;1m23:33:42[39;0m [32;22mINFO[39;0m]: gosagoar1 lost connection: Disconnected
+[[36;1m23:33:42[39;0m [32;22mINFO[39;0m]: gosagoar1 left the game
+[[36;1m23:33:45[39;0m [32;22mINFO[39;0m]: Sim0i lost connection: Disconnected
+[[36;1m23:33:45[39;0m [32;22mINFO[39;0m]: Sim0i left the game
+[[36;1m23:34:29[39;0m [32;22mINFO[39;0m]: TheMuroslav lost connection: Disconnected
+[[36;1m23:34:29[39;0m [32;22mINFO[39;0m]: TheMuroslav left the game
+[[36;1m23:36:04[39;0m [32;22mINFO[39;0m]: UUID of player gosagoar1 is f5cebee1-9c7c-3ea6-8f10-cfd698accfdc
+[[36;1m23:36:04[39;0m [32;22mINFO[39;0m]: Client attempting to join with 20 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, neat, diet, appletreesrev, drinkbeer, citadel
+[[36;1m23:36:07[39;0m [32;22mINFO[39;0m]: gosagoar1[/85.249.161.102:52378] logged in with entity id 3,118 at (7,288.289, 128.5, -1,628.998)
+[[36;1m23:36:58[39;0m [32;22mINFO[39;0m]: gosagoar1 issued server command: /sit
+[[36;1m23:43:54[39;0m [32;22mINFO[39;0m]: Nik_Simin lost connection: Disconnected
+[[36;1m23:43:54[39;0m [32;22mINFO[39;0m]: Nik_Simin left the game
+[[36;1m23:43:55[39;0m [32;22mINFO[39;0m]: gosagoar1 lost connection: Disconnected
+[[36;1m23:43:55[39;0m [32;22mINFO[39;0m]: gosagoar1 left the game
+[[36;1m23:51:18[39;0m [32;22mINFO[39;0m]: UUID of player Sim0i is 40cb4bd3-ebef-343d-8cff-c1a947ba5514
+[[36;1m23:51:18[39;0m [32;22mINFO[39;0m]: Client attempting to join with 19 mods : minecraft, farmersdelight, obfuscate, customnpcs, uteamcore, plasmo_voice, cfm, locksmith, pollen, carryon, astikorcarts, kimetsunoyaiba, forge, aquaculture, tlskincape, diet, appletreesrev, drinkbeer, citadel
+[[36;1m23:51:20[39;0m [32;22mINFO[39;0m]: Sim0i[/92.127.216.155:57625] logged in with entity id 3,190 at (7,258.286, 73.5, -1,553.902)
+[[36;1m23:58:12[39;0m [31;1mFATAL[39;0m]: Preparing crash report with UUID df14fdba-e1e5-4444-a0dd-3ba0f12ef04a
+[[36;1m23:58:12[39;0m [31;1mERROR[39;0m]: Encountered an unexpected exception
+[[36;1m23:58:12[39;0m [31;1mERROR[39;0m]:       Cause of unexpected exception was
+[[36;1m23:58:12[39;0m [31;1mERROR[39;0m]: This crash report has been saved to: /home/srv52253/./crash-reports/crash-2022-06-13_23.58.12-server.txt
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: Stopping server
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: [SimpleSit] Disabling SimpleSit v1.7
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: [LoginSecurity] Disabling LoginSecurity v3.1
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: [LoginSecurity] Waiting for queued tasks...
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: [Essentials] Disabling Essentials v2.19.4
+[[36;1m23:58:12[39;0m [31;1mERROR[39;0m]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: [WorldEdit] Disabling WorldEdit v7.2.0-beta-02+d10d7d6
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: Saving players
+[[36;1m23:58:12[39;0m [32;22mINFO[39;0m]: Sim0i lost connection: [0;37;1mСервер выключен![m
+[[36;1m23:58:13[39;0m [32;22mINFO[39;0m]: Sim0i left the game
+[[36;1m23:58:13[39;0m [32;22mINFO[39;0m]: Saving worlds
+[[36;1m23:58:13[39;0m [32;22mINFO[39;0m]: Saving chunks for level 'ServerLevel[Coast]'/minecraft:overworld
+[[36;1m23:58:13[39;0m [31;1mERROR[39;0m]: Exception stopping the server
+[[36;1m23:58:13[39;0m [32;22mINFO[39;0m]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, farmersdelight:unaffected_by_rich_soil, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, cfm:fences/upgraded, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, cfm:fences/picket, forge:gravel, forge:glass_panes/cyan, farmersdelight:wild_crops, forge:storage_blocks/redstone, forge:glass_panes/light_gray, minecraft:wool, sereneseasons:winter_crops, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, sereneseasons:unbreakable_infertile_crops, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, farmersdelight:heat_sources, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, farmersdelight:compost_activators, farmersdelight:heat_conductors, minecraft:coral_plants, farmersdelight:tray_heat_sources, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, appletreesrev:saplings, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, create:fan_heaters, forge:glass_panes/purple, forge:glass/yellow, locksmith:lockable, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:mineable/pickaxe, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, cfm:fence_gates/picket, forge:storage_blocks/neptunium, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, appletreesrev:apple_logs, minecraft:jungle_logs, cfm:fences/hedge, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, farmersdelight:mushroom_colony_growable_on, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, cfm:fence_gates/upgraded, minecraft:base_stone_nether, minecraft:wall_signs, sereneseasons:spring_crops, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden, sereneseasons:summer_crops]
+Mon Jun 13 23:58:14 MSK 2022
+eof

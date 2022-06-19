@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.76.132.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655574885636
+  login: 1655573213072
+money: '0'
+last-account-name: Sherhantop1
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 383.6220882607408
+  y: 64.0
+  z: -510.82190109281305
+  yaw: -153.87449645996094
+  pitch: 36.29987716674805
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7443.781907313589
+  y: 111.0
+  z: -1813.4248071005127
+  yaw: 204.59796142578125
+  pitch: 10.063706398010254

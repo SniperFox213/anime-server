@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.214.44.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655579015318
+  login: 1655575004199
+money: '0'
+last-account-name: Reeezon
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 166.4002465806895
+  y: 63.0
+  z: 1536.5795158774201
+  yaw: -292.25433349609375
+  pitch: 0.0
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -269.48253532325276
+  y: 62.523264600616436
+  z: 1568.4143679842646
+  yaw: -117.08154296875
+  pitch: 10.238037109375

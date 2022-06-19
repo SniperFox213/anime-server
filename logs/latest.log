@@ -1,0 +1,990 @@
+[10:22:15] [main/INFO] [STDOUT/]: Update in check...
+[10:22:15] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[10:22:16] [main/INFO] [STDOUT/]: The latest Mohist version is 1.16.5-1033 but you have 1.16.5-1020. The latest version has been built on 2022-06-17 11:32:16. You should update to fix recent bugs !
+[10:22:16] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 1020, --fml.forgeVersion, 36.2.35, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[10:22:16] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 17.0.3 by Private Build
+[10:22:16] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[10:22:16] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/home/workspace/server/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[10:22:18] [main/ERROR] [mixin/]: Mixin config plasmovoice-common.mixins.json does not specify "minVersion" property
+[10:22:18] [main/ERROR] [mixin/]: Mixin config plasmovoice.mixins.json does not specify "minVersion" property
+[10:22:18] [main/ERROR] [mixin/]: Mixin config epicfight.mixins.json does not specify "minVersion" property
+[10:22:18] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[10:22:28] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[10:22:28] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[10:22:28] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[10:22:28] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[10:22:29] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[10:22:29] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[10:22:29] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[10:22:29] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[10:22:30] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.35, for MC 1.16.5 with MCP 20210115.111550
+[10:22:30] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.35 Initialized
+[10:22:30] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[10:22:31] [modloading-worker-0/INFO] [epicfight/]: Load Configuration File
+[10:22:31] [modloading-worker-0/INFO] [epicfight/]: Load Configuration File
+[10:22:34] [main/INFO] [com.magistuarmory.KnightlyArmory/]: HELLO from Register Block
+[10:22:35] [main/INFO] [Spartan Weaponry/]: Registering items...
+[10:22:35] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[10:22:35] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[10:22:36] [modloading-worker-0/INFO] [com.magistuarmory.KnightlyArmory/]: HELLO FROM PREINIT
+[10:22:36] [modloading-worker-0/INFO] [com.magistuarmory.KnightlyArmory/]: DIRT BLOCK >> minecraft:dirt
+[10:22:36] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC Permissions available:
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[10:22:37] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[10:22:38] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[10:22:40] [modloading-worker-0/INFO] [com.magistuarmory.KnightlyArmory/]: Got IMC []
+[10:22:46] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:22:48] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, MoreMeatsModByDaleeny_1.16.5.jar, FarmersDelight-1.16.5-0.6.0.jar, useful_backpacks-1.16.5-1.12.1.90.jar, plasmovoice-forge-1.16-1.2.13.jar, YDM-s-Weapon-Master-FORGE-MULTI-1.16.5.jar, EpicFightMod-16.5.13.jar, citadel-1.8.0-1.16.5.jar, SereneSeasons-1.16.5-4.0.1.125-universal.jar, ToughAsNails-1.16.5-4.1.0.9-universal.jar, 1.16.5-epic-knights-armor-and-weapons-5.11v.jar, obfuscate-0.6.3-1.16.5.jar, CustomNPCs-1.16.5.20220515.jar, u_team_core-1.16.5-3.2.1.196.jar, Wallets-1.16.5-1.0.4.jar, SpartanWeaponry-1.16.5-2.2.0-rc-2.jar, cfm-7.0.0pre22-1.16.3.jar, Furniturev3.0.0-mc1.16.5-Forge.jar, mohist-1.16.5-1020-universal.jar, bukkit
+[10:22:52] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[10:22:53] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2,033 recipes
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:leather_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:diamond_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:iron_shovel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:chainmail_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:diamond_shovel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:golden_longsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:netherite_greatsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:stone_axe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:netherite_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:diamond_pickaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:iron_sword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:netherite_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:iron_greatsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:diamond_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:leather_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:netherite_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:iron_hoe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:netherite_sword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:diamond_tachi
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:trident
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:chainmail_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:iron_pickaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:chainmail_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:netherite_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:diamond_hoe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:golden_greatsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:netherite_longsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:golden_sword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:diamond_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:netherite_shovel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:iron_axe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:golden_tachi
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:wooden_axe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:golden_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:netherite_tachi
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:crossbow
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:diamond_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:golden_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:diamond_greatsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:stone_sword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:iron_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:leather_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:golden_spear
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:diamond_sword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:golden_pickaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:netherite_axe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:iron_tachi
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:diamond_longsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:wooden_pickaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:wooden_shovel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:stone_greatsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for epicfight:stray_pants
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:leather_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:golden_hoe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:stone_shovel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:stone_pickaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:golden_shovel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:knuckle
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:netherite_dagger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:netherite_pickaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:wooden_hoe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:diamond_dagger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:iron_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:stone_spear
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:golden_axe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:iron_dagger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:chainmail_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:golden_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:diamond_spear
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:iron_longsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for epicfight:stray_robe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:iron_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:katana
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:wooden_sword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:golden_dagger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:iron_spear
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for epicfight:stray_hat
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:golden_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:stone_hoe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:bow
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:diamond_axe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for minecraft:netherite_hoe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register weapon capability for epicfight:netherite_spear
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register armor capability for minecraft:iron_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for turtle_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for shield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for armet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for knight_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for knight_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for knight_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stechhelm
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for jousting_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for jousting_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for jousting_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for sallet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gothic_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gothic_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gothic_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for maximilian_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for maximilian_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for maximilian_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for maximilian_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for chainmail_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for chainmail_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for chainmail_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for chainmail_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for kettlehat
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for platemail_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for platemail_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for platemail_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for barbute
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halfarmor_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greathelm
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for crusader_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for crusader_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for crusader_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for ceremonialarmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for ceremonial_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for ceremonial_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for coif
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gambeson_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pantyhose
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gambeson_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for brigandine_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for norman_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for shishak
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedbarbute
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedhalfarmor_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedgreathelm
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedcrusader_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedcrusader_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedkettlehat
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustednorman_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedchainmail_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedchainmail_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedchainmail_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rustedchainmail_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bascinet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for xivcenturyknight_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for xivcenturyknight_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for xivcenturyknight_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wingedhussar_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for cuirassier_helmet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for cuirassier_chestplate
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for cuirassier_leggings
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for cuirassier_boots
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for blacksmith_hammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for barbedclub
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pitchfork
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for noble_sword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rusted_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rusted_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_stylet
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_shortsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_katzbalger
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_pike
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_ranseur
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_ahlspiess
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_chivalrylance
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_bastardsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_estoc
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_claymore
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_zweihander
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_flamebladedsword
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_lochaberaxe
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_concavehalberd
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_heavymace
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_heavywarhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_lucernhammer
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_morgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_chainmorgenstern
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_guisarme
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_heatershield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_target
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_buckler
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_rondache
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_tartsche
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_ellipticalshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_roundshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_pavese
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for wood_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for stone_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for iron_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for gold_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for diamond_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for copper_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for steel_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for silver_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for netherite_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for tin_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for bronze_kiteshield
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for dagger_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for parrying_dagger_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longsword_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for katana_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for saber_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for rapier_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for greatsword_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for club_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for club_studded
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for cestus
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for cestus_studded
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for hammer_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for warhammer_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spear_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for halberd_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for pike_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for lance_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_leather
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for longbow_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_leather
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for heavy_crossbow_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for battleaxe_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for flanged_mace_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for glaive_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for quarterstaff_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_wood
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_stone
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_iron
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_gold
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_diamond
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_netherite
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_copper
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_tin
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_bronze
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_steel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_silver
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_invar
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_platinum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_electrum
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_nickel
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for scythe_lead
+[10:22:53] [Worker-Main-2/INFO] [epicfight/]: register capability for spatula
+[10:23:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[10:23:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10:23:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10:23:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10:23:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[10:23:01] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[10:23:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:23:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10:23:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:23:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:23:01] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-1020 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.35)
+[10:23:05] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[10:23:05] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[10:23:05] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[10:23:07] [Server thread/WARN] [/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:23:13] [Server thread/WARN] [Minecraft/]: Legacy plugin LoginSecurity v3.1 does not specify an api-version.
+[10:23:13] [Server thread/WARN] [Minecraft/]: Legacy plugin SimpleSit v1.7 does not specify an api-version.
+[10:23:13] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Loading WorldEdit v7.2.0-beta-02+d10d7d6
+[10:23:18] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@60dc5711]
+[10:23:18] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Loading Essentials v2.19.4
+[10:23:18] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Loading LoginSecurity v3.1
+[10:23:18] [Server thread/INFO] [net.apcat.simplesit.SimpleSit/]: [SimpleSit] Loading SimpleSit v1.7
+[10:23:18] [Server thread/INFO] [me.treyruffy.commandblocker.bukkit.BukkitMain/]: [Trey's Command Blocker] Loading CommandBlocker v2.1.2
+[10:23:18] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Enabling WorldEdit v7.2.0-beta-02+d10d7d6
+[10:23:18] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[10:23:19] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] ====================================================
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  WorldEdit works better if you use Paper 
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  as your server software. 
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Paper offers significant performance improvements,
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  bug fixes, security enhancements and optional
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  features for server owners to enhance their server.
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  better at diagnosing lag problems over v1.
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  All of your plugins should still work, and the
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[10:23:21] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] ====================================================
+[10:23:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "spawn"
+[10:23:22] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[10:23:22] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Enabling Essentials v2.19.4
+[10:23:23] [Server thread/ERROR] [com.earth2me.essentials.Essentials/]: [Essentials] You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[10:23:23] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Status determining class: net.minecraftforge.common.MinecraftForge
+[10:23:24] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[10:23:24] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[10:23:25] [Server thread/INFO] [Essentials/]: Loaded 36926 items from items.json.
+[10:23:25] [Server thread/INFO] [Essentials/]: Using locale en
+[10:23:25] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:23:25] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:23:25] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Using superperms-based permissions.
+[10:23:25] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Enabling LoginSecurity v3.1
+[10:23:26] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Loading base translations from "en_us"
+[10:23:26] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Loading specified translations from "en_us"
+[10:23:26] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Registering commands...
+[10:23:26] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Registering listeners...
+[10:23:26] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Using 1.12+ map captcha renderer
+[10:23:26] [Server thread/INFO] [net.apcat.simplesit.SimpleSit/]: [SimpleSit] Enabling SimpleSit v1.7
+[10:23:26] [Server thread/INFO] [me.treyruffy.commandblocker.bukkit.BukkitMain/]: [Trey's Command Blocker] Enabling CommandBlocker v2.1.2
+[10:23:27] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[10:23:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10:23:30] [Netty Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[10:23:33] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10:23:35] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
+[10:23:36] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6,641 ms
+[10:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.744s)! For help, type "help"
+[10:23:36] [Server thread/WARN] [net.minecraftforge.server.permission.PermissionAPI/]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.mohistmc.forge.BukkitPermissionsHandler
+[10:23:36] [Server thread/INFO] [com.magistuarmory.KnightlyArmory/]: HELLO from server starting
+[10:23:36] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[10:23:37] [Server thread/WARN] [Plasmo Voice/]: Config outdated. Check https://github.com/plasmoapp/plasmo-voice/wiki/How-to-install-Server for new config.
+[10:23:37] [Thread-10/INFO] [Plasmo Voice/]: Voice UDP server started on /0.0.0.0:25565
+[10:23:37] [Server thread/INFO] [Minecraft/]: Timings Reset
+[10:23:37] [Craft Scheduler Thread - 5/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Fetching version information...
+[10:23:58] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player julipup is 72964376-3fb8-3fc8-8c03-da9b5cabbd33
+[10:23:58] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5f97c30c[id=72964376-3fb8-3fc8-8c03-da9b5cabbd33,name=julipup,properties={},legacy=false] (/87.244.175.17:56892) lost connection: Disconnected
+[10:26:41] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Agent_J5 is cacea8bb-9240-332e-9c82-2a31c11c49c2
+[10:26:41] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3caa988e[id=cacea8bb-9240-332e-9c82-2a31c11c49c2,name=Agent_J5,properties={},legacy=false] (/46.119.179.184:60181) lost connection: Disconnected
+[10:26:49] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Agent_J5 is cacea8bb-9240-332e-9c82-2a31c11c49c2
+[10:26:49] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@59a324bf[id=cacea8bb-9240-332e-9c82-2a31c11c49c2,name=Agent_J5,properties={},legacy=false] (/46.119.179.184:60187) lost connection: Disconnected
+[10:26:59] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Agent_J5 is cacea8bb-9240-332e-9c82-2a31c11c49c2
+[10:26:59] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6cf4e9d5[id=cacea8bb-9240-332e-9c82-2a31c11c49c2,name=Agent_J5,properties={},legacy=false] (/46.119.179.184:60196) lost connection: Disconnected
+[10:27:05] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nik_Simin is 8c4e84c1-39ed-30e1-9941-a03ce2e2a6be
+[10:27:05] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@152fff85[id=8c4e84c1-39ed-30e1-9941-a03ce2e2a6be,name=Nik_Simin,properties={},legacy=false] (/85.249.32.252:61530) lost connection: Disconnected
+[10:27:12] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nik_Simin is 8c4e84c1-39ed-30e1-9941-a03ce2e2a6be
+[10:27:12] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@7d297b46[id=8c4e84c1-39ed-30e1-9941-a03ce2e2a6be,name=Nik_Simin,properties={},legacy=false] (/85.249.32.252:61733) lost connection: Disconnected
+[10:27:14] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Agent_J5 is cacea8bb-9240-332e-9c82-2a31c11c49c2
+[10:27:14] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3d6f2e80[id=cacea8bb-9240-332e-9c82-2a31c11c49c2,name=Agent_J5,properties={},legacy=false] (/46.119.179.184:61615) lost connection: Disconnected
+[10:27:43] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Agent_J5 is cacea8bb-9240-332e-9c82-2a31c11c49c2
+[10:27:43] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@24257b89[id=cacea8bb-9240-332e-9c82-2a31c11c49c2,name=Agent_J5,properties={},legacy=false] (/46.119.179.184:61630) lost connection: Disconnected
+[10:28:47] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Vori_1 is febf6fe1-ebed-37f2-ae5f-d3a2d6ecef50
+[10:28:47] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2f58b551[id=febf6fe1-ebed-37f2-ae5f-d3a2d6ecef50,name=Vori_1,properties={},legacy=false] (/82.151.125.18:11793) lost connection: Disconnected
+[10:29:45] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nik_Simin is 8c4e84c1-39ed-30e1-9941-a03ce2e2a6be
+[10:29:45] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4ec1e4dc[id=8c4e84c1-39ed-30e1-9941-a03ce2e2a6be,name=Nik_Simin,properties={},legacy=false] (/85.249.32.252:61789) lost connection: Disconnected
+[10:30:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[10:30:30] [Thread-10/INFO] [Plasmo Voice/]: Voice UDP server stopped
+[10:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10:30:30] [Server thread/INFO] [me.treyruffy.commandblocker.bukkit.BukkitMain/]: [Trey's Command Blocker] Disabling CommandBlocker v2.1.2
+[10:30:30] [Server thread/INFO] [net.apcat.simplesit.SimpleSit/]: [SimpleSit] Disabling SimpleSit v1.7
+[10:30:30] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Disabling LoginSecurity v3.1
+[10:30:30] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Waiting for queued tasks...
+[10:30:30] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[10:30:30] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Disabling Essentials v2.19.4
+[10:30:30] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Disabling WorldEdit v7.2.0-beta-02+d10d7d6
+[10:30:30] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[10:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:overworld
+[10:30:30] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[10:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[10:30:30] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[10:30:30] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:30:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving usercache.json

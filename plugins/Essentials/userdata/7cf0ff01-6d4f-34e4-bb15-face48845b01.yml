@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.95.44.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655627480425
+  login: 1655617883349
+money: '0'
+last-account-name: kakasi565698
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 218.02522895790844
+  y: 68.0
+  z: 1633.928568460549
+  yaw: 89.102294921875
+  pitch: 15.150029182434082
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 316.3309540904681
+  y: 64.0
+  z: 1656.1661536100185
+  yaw: 160.63623046875
+  pitch: 9.000035285949707

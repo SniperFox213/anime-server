@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.176.74.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655489499584
+  login: 1655488970543
+money: '0'
+last-account-name: Zephure
+logoutlocation:
+  world: 31bf753d-5364-4171-bf2a-53ec1a9fa260
+  world-name: spawn
+  x: -72.65868863737857
+  y: 70.0
+  z: 255.66514030589815
+  yaw: -218.62554931640625
+  pitch: 35.56010055541992
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7195.04521436555
+  y: 71.0
+  z: -1483.9845058026692
+  yaw: 105.46475219726562
+  pitch: 39.40675735473633

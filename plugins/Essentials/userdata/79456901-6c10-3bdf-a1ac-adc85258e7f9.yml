@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.118.87.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655043225552
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655043651447
+  login: 1655041914489
+money: '0'
+last-account-name: _Kinex_
+logoutlocation:
+  world: 7759f88a-7d45-4edf-b914-43606bdb3f41
+  world-name: Medieval World - Falcon's Rock v2.0.1
+  x: 580.5983673041292
+  y: 63.0
+  z: 503.4775120455596
+  yaw: -226.28863525390625
+  pitch: 47.850242614746094
+lastlocation:
+  world: 7759f88a-7d45-4edf-b914-43606bdb3f41
+  world-name: Medieval World - Falcon's Rock v2.0.1
+  x: 525.061534352121
+  y: 69.55794374578376
+  z: 611.9985696762128
+  yaw: -179.85020446777344
+  pitch: 11.250019073486328

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.34.192.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655020693867
+  login: 1655024662646
+money: '0'
+last-account-name: xxxxK1llerxxxx
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7292.637159843956
+  y: 101.29384862221077
+  z: -2113.7030695020885
+  yaw: 174.69146728515625
+  pitch: 19.417552947998047
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7154.048447666981
+  y: 68.0
+  z: -1286.0883184943161
+  yaw: 50.5185546875
+  pitch: 11.910048484802246

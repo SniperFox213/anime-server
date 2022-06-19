@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.99.253.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655210095388
+  login: 1655208104492
+money: '0'
+last-account-name: Dictorik
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7223.300000011921
+  y: 87.0
+  z: -1571.3693836419086
+  yaw: -54.31016540527344
+  pitch: 42.899452209472656
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7216.301419724445
+  y: 67.0
+  z: -1507.517339345952
+  yaw: 189.00030517578125
+  pitch: 7.350028038024902

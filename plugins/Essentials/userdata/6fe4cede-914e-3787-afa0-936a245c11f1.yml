@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.245.134.151
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655627480455
+  login: 1655626486691
+money: '0'
+last-account-name: LALAJOB
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 175.26138161422932
+  y: 69.0
+  z: -327.8889371855529
+  yaw: -109.36151123046875
+  pitch: -80.2499008178711
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 86.91832624795319
+  y: 69.00133597911214
+  z: -100.77602033042163
+  yaw: 216.011962890625
+  pitch: 14.24958610534668

@@ -1,0 +1,1 @@
+[JUN 18, 2022 | 20:04:48] Waind: Added command /fly in disabled.yml with permission blocker.fly and message Неизвестная команда. in worlds: all. When executed, it runs :fly as the player and :fly as console.

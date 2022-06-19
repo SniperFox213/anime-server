@@ -1,0 +1,50 @@
+# ---------------------------------------- #
+# +--------------------------------------+
+# |           Command Blocker!           |
+# | Blocks players from seeing commands! |
+# |            (c): TreyRuffy            |
+# +--------------------------------------+
+# ---------------------------------------- #
+# 
+# -------------------------------------------------------------------------------- #
+# +------------------------------------------------------------------------------+
+# | Add blocked commands and set permissions in:                                 |
+# | disabled.yml and opblock.yml                                                 |
+# |                                                                              |
+# | Main permissions are:                                                        |
+# | cb.add    -> /cb add                                                         |
+# | cb.remove -> /cb remove                                                      |
+# | cb.reload -> /cb reload                                                      |
+# | cb.addop    -> /cb addop                                                     |
+# | cb.removeop -> /cb removeop                                                  |
+# +------------------------------------------------------------------------------+
+# -------------------------------------------------------------------------------- #
+
+Default:
+  Message: '&cSorry, the owner has disabled that command.'
+  Permission: cb.allow.%command%
+Messages:
+  NoPermission: '&cYou do not have the required permissions to execute this command.'
+DisableTabComplete: true
+DisableOpTabComplete: true
+ColonedCommands:
+  Enabled: false
+  DisableAllColonsInCommands: false
+  DisableColonsInFollowingCommands:
+  - bukkit
+  Worlds:
+  - all
+  Message: '&cYou cannot use ":" in this command.'
+  Permission: cb.allowcolonedcommands
+  WhitelistedPlayers:
+  - 49059600-26d6-45ac-8b43-86a14f7d96ac
+  PlayerCommands:
+  - none
+  ConsoleCommands:
+  - none
+  DisableForOperators: false
+  DisableTabComplete: true
+Updates:
+  Check: true
+  TellPlayers: true
+Version: 2.1.2

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.182.63.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655212711861
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655396017882
+  login: 1655396052966
+money: '0'
+last-account-name: Joparo2
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7258.291597444718
+  y: 80.27060898011881
+  z: -1568.9023912564683
+  yaw: -182.65216064453125
+  pitch: -8.439508438110352
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7206.38822213448
+  y: 68.5
+  z: -1484.7520114264362
+  yaw: 253.95001220703125
+  pitch: 9.300000190734863

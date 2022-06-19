@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.218.99.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655554444236
+  login: 1655553558228
+money: '0'
+last-account-name: baklajan32165
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -25.03011233086093
+  y: 81.0
+  z: 124.65999766714879
+  yaw: 337.80108642578125
+  pitch: 14.850098609924316
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 16.3774321946321
+  y: 68.0
+  z: 262.6761953841654
+  yaw: -174.3000030517578
+  pitch: 16.049999237060547

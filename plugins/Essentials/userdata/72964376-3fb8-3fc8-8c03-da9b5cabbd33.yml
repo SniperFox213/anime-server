@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.244.175.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655582717009
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655582750744
+  login: 1655582243303
+money: '0'
+last-account-name: julipup
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -67.91887150169725
+  y: 71.0
+  z: 282.2745353176994
+  yaw: 68.01326751708984
+  pitch: 26.75756072998047
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 213.84524629202014
+  y: 75.0
+  z: -292.1194977510356
+  yaw: -144.24484252929688
+  pitch: 29.737226486206055

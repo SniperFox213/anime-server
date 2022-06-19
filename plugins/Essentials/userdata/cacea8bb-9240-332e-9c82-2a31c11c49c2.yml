@@ -1,0 +1,53 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 46.119.179.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655627398163
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655627480478
+  login: 1655625447245
+  kits:
+    color: 1655223928404
+    dtools: 1655223938668
+    firework: 1655552909180
+    notch: 1655627115031
+    tools: 1655556509848
+money: '0'
+last-account-name: Agent_J5
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 194.98589796206056
+  y: 68.875
+  z: -343.04680497923584
+  yaw: 48.24797821044922
+  pitch: 28.877750396728516
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 173.33049026266508
+  y: 71.0
+  z: -333.9903848908762
+  yaw: 236.75994873046875
+  pitch: 70.52413940429688
+homes:
+  home:
+    world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+    world-name: spawn
+    x: -2648.3140661126263
+    y: 64.0
+    z: 354.13248894558114
+    yaw: 121.65532684326172
+    pitch: 32.399967193603516

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.151.125.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1654933268389
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655216952606
+  login: 1655213464835
+money: '0'
+last-account-name: Vori1
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7280.515042184136
+  y: 101.0
+  z: -1600.5795575243114
+  yaw: 142.76527404785156
+  pitch: 10.200484275817871
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7283.119810846543
+  y: 101.0
+  z: -1603.4097659259699
+  yaw: 311.0234375
+  pitch: 8.400002479553223

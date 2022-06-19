@@ -1,0 +1,22 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-06-18 10:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2022-06-18 10:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2022-06-18 10:09:09 +0000",
+      "minecraft:plains": "2022-06-18 10:00:49 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

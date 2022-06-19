@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.99.175.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655576935059
+  login: 1655575744867
+money: '0'
+last-account-name: slaymerdog
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 57.151730894654385
+  y: 69.0
+  z: -45.938248591536194
+  yaw: 252.0804443359375
+  pitch: 68.69998168945312
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 610.2171631251261
+  y: 64.0
+  z: -252.31532529284286
+  yaw: 306.604248046875
+  pitch: 16.200014114379883

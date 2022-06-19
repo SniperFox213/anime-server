@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.151.125.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655290286908
+  login: 1655288341478
+money: '0'
+last-account-name: Lokirinos_12
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7254.973971035853
+  y: 64.25220334025373
+  z: -1499.3821768332514
+  yaw: -34.5004768371582
+  pitch: 44.39994812011719
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7255.412622769031
+  y: 63.0
+  z: -1501.0828526272537
+  yaw: -38.6112060546875
+  pitch: 51.600189208984375

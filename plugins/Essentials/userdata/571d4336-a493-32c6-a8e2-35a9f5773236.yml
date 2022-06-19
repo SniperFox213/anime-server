@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.166.80.212
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655288089329
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655288381863
+  login: 1655287710760
+money: '0'
+last-account-name: RyomenRUS
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7283.298916098918
+  y: 114.0
+  z: -1622.7446214434665
+  yaw: 290.1882019042969
+  pitch: 3.6834001541137695
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7200.971495441996
+  y: 71.0
+  z: -1483.347961031506
+  yaw: 105.32018280029297
+  pitch: 6.847760200500488
+homes:
+  home:
+    world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+    world-name: Coast
+    x: 7254.813624286955
+    y: 131.0
+    z: -1698.6163455476196
+    yaw: -14.73463249206543
+    pitch: 41.100093841552734
+  asd:
+    world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+    world-name: Coast
+    x: 7167.302705610774
+    y: 88.0
+    z: -1282.9483479067517
+    yaw: 292.19744873046875
+    pitch: 23.458473205566406

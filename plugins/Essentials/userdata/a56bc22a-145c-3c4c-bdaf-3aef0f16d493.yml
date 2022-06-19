@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.54.179.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655219077903
+  login: 1655213702324
+money: '0'
+last-account-name: _demon_Diver
+lastlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7217.8889617911045
+  y: 67.0
+  z: -1513.642946660399
+  yaw: -156.16659545898438
+  pitch: 1.4309437274932861
+logoutlocation:
+  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
+  world-name: Coast
+  x: 7256.642714766067
+  y: 131.0
+  z: -1701.7686408139625
+  yaw: -7.126601219177246
+  pitch: 2.3096024990081787
