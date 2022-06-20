@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.249.32.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655729663965
+  login: 1655728982782
+money: '0'
+last-account-name: Etotam_Simin
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 198.140682742252
+  y: 65.0
+  z: 1627.6360340134886
+  yaw: 218.70065307617188
+  pitch: 10.799999237060547
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -2648.3536617702007
+  y: 64.0
+  z: 352.1529352645118
+  yaw: -79.19512939453125
+  pitch: 15.150070190429688

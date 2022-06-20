@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.140.2.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655739810683
+  login: 1655738921260
+money: '0'
+last-account-name: Geroin
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 183.63749991408307
+  y: 69.43270087700593
+  z: 1349.2320243960685
+  yaw: 181.9801788330078
+  pitch: -3.3682098388671875

@@ -1,0 +1,28 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-06-20 12:48:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-06-20 12:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-06-20 12:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-06-20 12:45:01 +0000",
+      "minecraft:plains": "2022-06-20 12:43:02 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1655579015266
-  login: 1655571077398
+  logout: 1655726703363
+  login: 1655726560495
 money: '0'
 last-account-name: TD_EXoDuS_I
 logoutlocation:
   world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
   world-name: spawn
-  x: 160.5
+  x: 165.64362828644852
   y: 64.0
-  z: 1222.5
-  yaw: -180.0
-  pitch: 0.0
+  z: 1226.0568746295778
+  yaw: 13.547331809997559
+  pitch: 7.5796332359313965
 lastlocation:
   world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
   world-name: spawn

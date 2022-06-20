@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: true
+godmode: false
 muted: false
 jailed: false
 ip-address: 193.106.161.52
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1655617586078
+  lastteleport: 1655743148188
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1655623092601
-  login: 1655582237113
+  logout: 1655746379154
+  login: 1655745305242
 money: '0'
 last-account-name: JustArk12
 logoutlocation:
   world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
   world-name: spawn
-  x: -2654.296313523337
-  y: 68.0
-  z: 335.7696890518272
-  yaw: -151.7904052734375
-  pitch: 1.0959309339523315
+  x: -53.573175183880764
+  y: 71.0
+  z: 272.0871249961735
+  yaw: -357.447998046875
+  pitch: 27.899913787841797
 lastlocation:
   world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
   world-name: spawn
-  x: -2832.325725273158
-  y: 57.0
-  z: 375.01764481242947
-  yaw: -240.6005859375
-  pitch: -36.300018310546875
+  x: 311.1239530314174
+  y: 72.0
+  z: -211.93674621165576
+  yaw: -272.30535888671875
+  pitch: 13.33741569519043

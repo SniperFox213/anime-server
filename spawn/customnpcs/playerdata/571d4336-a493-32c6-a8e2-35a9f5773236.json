@@ -1,0 +1,33 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "RyomenRUS",
+    "UUID": "571d4336-a493-32c6-a8e2-35a9f5773236",
+    "ScriptStoreddata": {
+    }
+}

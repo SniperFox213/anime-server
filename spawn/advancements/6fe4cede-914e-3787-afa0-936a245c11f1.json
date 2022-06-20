@@ -5,24 +5,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2022-06-18 12:15:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2022-06-18 11:26:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2022-06-18 11:13:48 +0000"
@@ -32,12 +14,6 @@
   "spartanweaponry:recipes/spartanweaponry.basic/katana_diamond": {
     "criteria": {
       "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_straw": "2022-06-18 11:37:38 +0000"
     },
     "done": true
   },
@@ -53,12 +29,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/harvest_straw": {
-    "criteria": {
-      "harvest_straw": "2022-06-18 11:37:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-06-18 11:46:43 +0000"
@@ -71,21 +41,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2022-06-18 12:25:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
     },
     "done": true
   },
@@ -95,27 +53,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/birch_desk": {
-    "criteria": {
-      "has_log": "2022-06-18 11:36:56 +0000"
     },
     "done": true
   },
@@ -125,39 +65,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-06-18 10:56:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_lots_of_items": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-06-18 11:46:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/diorite_table": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:15:46 +0000"
+      "has_planks": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -179,21 +101,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/shears": {
+  "spartanweaponry:recipes/spartanweaponry.basic/greatsword_gold": {
     "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/specialised_grip": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -215,33 +125,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/brown_grill": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2022-06-18 13:27:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/green_grill": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2022-06-18 13:21:24 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
     },
     "done": true
   },
@@ -269,33 +155,27 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/crimson_kitchen_sink_light": {
+  "spartanweaponry:recipes/spartanweaponry.basic/javelin_gold": {
     "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_emerald": "2022-06-19 08:27:38 +0000"
+      "has_rail": "2022-06-20 05:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-06-20 07:39:58 +0000"
     },
     "done": true
   },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/red_cooler": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
     },
     "done": true
   },
@@ -323,6 +203,2541 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2022-06-18 13:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-06-20 07:54:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/javelin_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/saber_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-06-18 12:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-06-18 11:29:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_cooler": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/medium_scope": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2022-06-18 12:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2022-06-18 11:12:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:club": {
+    "criteria": {
+      "has_club": "2022-06-18 12:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/club_wood": {
+    "criteria": {
+      "has_wood_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-06-18 12:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-06-20 07:54:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/spear_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2022-06-18 11:56:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/rapier_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-06-18 11:46:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2022-06-18 12:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2022-06-20 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pike_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "wallets:recipes/wallets/wallet": {
+    "criteria": {
+      "has_leather": "2022-06-18 12:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2022-06-18 12:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2022-06-20 03:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2022-06-18 11:28:13 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/tactical_stock": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2022-06-20 07:39:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/dagger_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2022-06-20 07:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-06-20 07:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/mini_gun": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_chair": {
+    "criteria": {
+      "has_log": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-06-18 12:50:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/scythe_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2022-06-18 11:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/halberd_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2022-06-18 11:12:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/rapier_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-06-18 11:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2022-06-18 12:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2022-06-18 12:57:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_cooler": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-06-18 13:06:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/lance_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2022-06-18 11:37:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-06-19 08:16:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2022-06-20 07:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_coffee_table": {
+    "criteria": {
+      "has_planks": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2022-06-20 07:36:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2022-06-18 11:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-06-18 11:28:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/boomerang_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/glaive_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/katana_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/scythe_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_table": {
+    "criteria": {
+      "has_planks": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/javelin_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2022-06-20 02:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-06-18 12:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_coffee_table": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:15:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/halberd_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/light_grip": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2022-06-18 11:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-06-18 12:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-06-18 11:36:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-06-20 07:54:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2022-06-18 13:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/katana_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_cooler": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_table": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2022-06-18 11:15:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pike_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/lance_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2022-06-18 12:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2022-06-18 11:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2022-06-20 07:39:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2022-06-18 11:12:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longsword_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2022-06-18 11:40:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_desk": {
+    "criteria": {
+      "has_planks": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/spear_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-06-20 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longsword_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/javelin_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/lance_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/warhammer_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-06-18 11:46:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/hammer_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-06-18 12:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2022-06-20 07:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2022-06-18 12:16:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/rock_path": {
+    "criteria": {
+      "has_andesite": "2022-06-18 11:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quiver_upgrade_kit_medium": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2022-06-20 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2022-06-18 13:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-06-18 12:46:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/saber_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
+    "criteria": {
+      "has_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_blinds": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_park_bench": {
+    "criteria": {
+      "has_log": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_table": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:29:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longbow_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2022-06-18 11:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-06-20 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/machine_pistol": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2022-06-18 12:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2022-06-18 12:57:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/glaive_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2022-06-20 08:23:04 +0000",
+      "spider_head": "2022-06-20 08:23:00 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_leather": {
+    "criteria": {
+      "has_leather": "2022-06-18 12:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-06-18 11:15:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2022-06-20 05:48:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-06-18 12:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2022-06-18 11:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2022-06-20 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-06-18 11:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2022-06-18 11:37:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/dagger_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/rapier_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2022-06-18 11:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-06-18 10:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-06-18 12:14:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/rapier_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/warhammer_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/javelin_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2022-06-18 11:36:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2022-06-20 02:45:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-06-18 11:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-06-20 07:14:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:40:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/rifle": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2022-06-20 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2022-06-18 12:46:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_cooler": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2022-06-20 13:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_soup": "2022-06-20 02:45:22 +0000",
+      "ratatouille": "2022-06-20 06:17:26 +0000",
+      "mixed_salad": "2022-06-20 07:28:47 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/cfm/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-06-18 11:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2022-06-18 12:35:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/longsword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longsword_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/glaive_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-06-20 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2022-06-18 12:21:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_desk": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:29:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/halberd_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2022-06-18 11:55:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/boomerang_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2022-06-18 11:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2022-06-18 12:57:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2022-06-20 13:38:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2022-06-20 14:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_feather": "2022-06-18 12:57:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2022-06-18 11:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/workbench": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/hammer_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2022-06-18 11:36:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2022-06-18 11:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2022-06-18 12:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/bazooka": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_chair": {
+    "criteria": {
+      "has_log": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_black_picket_gate": {
+    "criteria": {
+      "has_dye": "2022-06-18 11:36:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shotgun": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/saber_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gunpowder": "2022-06-20 07:36:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/pike_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/katana_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-06-18 13:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-06-18 12:14:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2022-06-18 13:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2022-06-18 11:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2022-06-18 11:55:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_chair": {
+    "criteria": {
+      "has_planks": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/weighted_stock": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2022-06-18 11:29:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-06-18 12:34:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longbow_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
+    "criteria": {
+      "has_feather": "2022-06-18 12:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-06-18 11:39:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/dagger_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-06-18 11:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/saber_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_stone": {
+    "criteria": {
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_wool": "2022-06-18 11:43:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:40:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_chair": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2022-06-20 06:17:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2022-06-18 11:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_cooked_beef": "2022-06-18 10:36:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/hammer_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-06-18 12:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2022-06-20 07:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-06-20 07:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2022-06-18 11:56:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/glaive_steel": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2022-06-18 12:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-06-18 11:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2022-06-20 07:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_diamond": {
+    "criteria": {
+      "has_diamond": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/hammer_gold": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_straw": "2022-06-18 11:37:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2022-06-18 11:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-06-18 12:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2022-06-20 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-18 11:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk": {
+    "criteria": {
+      "has_log": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-06-18 11:46:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-06-18 10:56:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_table": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:15:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2022-06-20 14:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/specialised_grip": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_grill": {
+    "criteria": {
+      "has_iron": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-06-18 13:21:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_wood": {
+    "criteria": {
+      "has_wood": "2022-06-18 11:08:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2022-06-18 12:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-06-19 08:27:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_iron": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_cooler": {
+    "criteria": {
+      "has_chest": "2022-06-18 12:09:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2022-06-18 12:36:34 +0000"
@@ -347,9 +2762,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+  "cfm:recipes/cfm/spruce_cabinet": {
     "criteria": {
-      "has_bacon": "2022-06-18 13:01:36 +0000"
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -362,24 +2777,6 @@
   "cfm:recipes/cfm/birch_crate": {
     "criteria": {
       "has_log": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/javelin_stone": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/saber_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
     },
     "done": true
   },
@@ -401,33 +2798,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "cfm:recipes/cfm/stripped_spruce_desk": {
     "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
+      "has_planks": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_planks": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/blue_grill": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2022-06-18 12:14:21 +0000"
     },
     "done": true
   },
@@ -443,15 +2822,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
+      "has_mutton": "2022-06-20 07:39:55 +0000"
     },
     "done": true
   },
   "cgm:recipes/cgm/light_stock": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
     },
     "done": true
   },
@@ -473,39 +2858,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2022-06-18 11:29:36 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/brown_cooler": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
     },
     "done": true
   },
@@ -527,27 +2882,15 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/medium_scope": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_wool": {
-    "criteria": {
-      "has_white_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2022-06-18 11:56:39 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
-      "iron_leggings": "2022-06-18 12:05:59 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -557,39 +2900,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_blinds": {
+  "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
     "criteria": {
-      "has_log": "2022-06-18 11:12:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/magenta_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/brown_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
+      "has_planks": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/farmersdelight/canvas": {
     "criteria": {
       "has_straw": "2022-06-18 11:37:38 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:club": {
-    "criteria": {
-      "has_club": "2022-06-18 12:45:28 +0000"
     },
     "done": true
   },
@@ -605,12 +2924,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2022-06-18 10:51:59 +0000"
@@ -623,21 +2936,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/club_wood": {
-    "criteria": {
-      "has_wood_log": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_stone": {
     "criteria": {
       "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2022-06-18 12:25:52 +0000"
     },
     "done": true
   },
@@ -650,12 +2951,6 @@
   "cgm:recipes/cgm/silencer": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/spear_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
     },
     "done": true
   },
@@ -686,18 +2981,6 @@
   "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2022-06-18 12:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2022-06-18 11:56:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/rapier_stone": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
     },
     "done": true
   },
@@ -749,15 +3032,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
-    "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2022-06-18 11:41:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -776,12 +3059,6 @@
   "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2022-06-18 12:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-06-18 11:46:43 +0000"
     },
     "done": true
   },
@@ -809,12 +3086,6 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2022-06-18 12:36:34 +0000"
@@ -825,15 +3096,11 @@
     "criteria": {
       "minecraft:skeleton": "2022-06-18 12:56:51 +0000",
       "minecraft:spider": "2022-06-18 12:15:22 +0000",
+      "minecraft:creeper": "2022-06-20 07:36:26 +0000",
+      "minecraft:phantom": "2022-06-20 02:37:04 +0000",
       "minecraft:zombie": "2022-06-18 12:18:09 +0000"
     },
     "done": false
-  },
-  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -847,45 +3114,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2022-06-18 12:16:29 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/pike_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-18 12:25:52 +0000"
     },
     "done": true
   },
-  "wallets:recipes/wallets/wallet": {
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
-      "has_leather": "2022-06-18 12:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2022-06-18 12:57:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2022-06-18 11:28:13 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/tactical_stock": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+      "has_glass": "2022-06-20 06:07:10 +0000"
     },
     "done": true
   },
@@ -907,9 +3144,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/pink_grill": {
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
+      "has_granite": "2022-06-20 08:01:17 +0000"
     },
     "done": true
   },
@@ -925,27 +3162,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/dagger_stone": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_stone": {
     "criteria": {
       "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/magenta_grill": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
     },
     "done": true
   },
@@ -967,27 +3186,15 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_table": {
+    "criteria": {
+      "has_log": "2022-06-20 02:42:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_stone": {
     "criteria": {
       "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/mini_gun": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
     },
     "done": true
   },
@@ -1003,15 +3210,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_stone": {
+  "cfm:recipes/cfm/granite_desk_cabinet": {
     "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2022-06-18 12:50:49 +0000"
+      "has_planks": "2022-06-20 08:01:17 +0000"
     },
     "done": true
   },
@@ -1027,21 +3228,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/scythe_stone": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_upgraded_fence": {
-    "criteria": {
-      "has_log": "2022-06-18 11:12:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2022-06-18 11:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-06-20 07:39:58 +0000"
     },
     "done": true
   },
@@ -1057,6 +3252,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/granite_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-20 08:01:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-06-18 11:43:30 +0000"
@@ -1069,15 +3270,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/halberd_steel": {
+  "spartanweaponry:recipes/spartanweaponry.basic/scythe_gold": {
     "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
+  "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
-      "has_bottom": "2022-06-18 11:12:03 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -1087,33 +3288,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/rapier_wood": {
+  "spartanweaponry:recipes/spartanweaponry.basic/halberd_gold": {
     "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2022-06-18 11:15:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2022-06-18 12:46:57 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_iron": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
-    "criteria": {
-      "has_chicken": "2022-06-18 12:57:04 +0000"
     },
     "done": true
   },
@@ -1132,12 +3315,6 @@
   "cfm:recipes/cfm/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/pink_cooler": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
     },
     "done": true
   },
@@ -1171,12 +3348,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:40:56 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/dye_pink_picket_fence": {
     "criteria": {
       "has_dye": "2022-06-18 11:56:39 +0000"
@@ -1186,12 +3357,6 @@
   "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2022-06-18 13:06:42 +0000"
     },
     "done": true
   },
@@ -1225,15 +3390,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_bedside_cabinet": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_log": "2022-06-18 11:36:56 +0000"
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+  "spartanweaponry:recipes/spartanweaponry.basic/pike_gold": {
     "criteria": {
-      "has_golden_knife": "2022-06-18 11:37:09 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -1246,24 +3411,6 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2022-06-19 08:26:31 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/acacia_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2022-06-19 08:16:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_wool": {
-    "criteria": {
-      "has_white_wool": "2022-06-18 11:43:30 +0000"
     },
     "done": true
   },
@@ -1285,12 +3432,6 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/cyan_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-06-18 11:19:03 +0000"
@@ -1300,6 +3441,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2022-06-18 13:06:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -1339,24 +3486,6 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/spruce_mail_box": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/green_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/birch_desk_cabinet": {
-    "criteria": {
-      "has_log": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2022-06-18 12:09:25 +0000"
@@ -1366,12 +3495,6 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2022-06-18 11:37:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2022-06-18 11:56:30 +0000"
     },
     "done": true
   },
@@ -1387,9 +3510,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_boots": {
+  "cfm:recipes/cfm/stripped_spruce_desk_cabinet": {
     "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+      "has_planks": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -1405,12 +3528,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_diamond": {
     "criteria": {
       "has_diamond": "2022-06-19 08:27:38 +0000"
@@ -1423,39 +3540,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/katana_iron": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:46 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2022-06-18 11:28:13 +0000"
-    },
-    "done": true
-  },
   "usefulbackpacks:recipes/filter_configurator": {
     "criteria": {
       "has_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/iron_knife": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
     },
     "done": true
   },
@@ -1489,21 +3582,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_oak_planks": "2022-06-18 11:08:35 +0000"
     },
     "done": true
   },
@@ -1513,9 +3594,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_trapdoor": {
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
-      "has_planks": "2022-06-18 11:08:35 +0000"
+      "has_porkchop": "2022-06-20 07:39:58 +0000"
     },
     "done": true
   },
@@ -1525,27 +3606,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_desk": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2022-06-18 11:28:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_mail_box": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
     },
     "done": true
   },
@@ -1561,33 +3624,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-06-18 11:13:48 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/scythe_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2022-06-18 11:46:43 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/missile": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
     },
     "done": true
   },
@@ -1600,9 +3645,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2022-06-18 11:08:17 +0000",
+      "minecraft:mountains": "2022-06-20 11:37:36 +0000",
+      "minecraft:taiga": "2022-06-20 11:40:28 +0000",
+      "minecraft:birch_forest": "2022-06-20 11:40:00 +0000",
       "minecraft:beach": "2022-06-18 11:07:26 +0000",
       "minecraft:river": "2022-06-18 11:07:32 +0000",
+      "minecraft:wooded_mountains": "2022-06-20 11:38:02 +0000",
       "minecraft:wooded_hills": "2022-06-18 12:32:43 +0000",
+      "minecraft:swamp": "2022-06-20 14:01:28 +0000",
       "minecraft:plains": "2022-06-18 10:15:15 +0000"
     },
     "done": false
@@ -1613,21 +3663,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
+  "spartanweaponry:recipes/spartanweaponry.basic/saber_gold": {
     "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/javelin_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -1640,12 +3678,6 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_leather": {
     "criteria": {
       "has_leather": "2022-06-18 12:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
     },
     "done": true
   },
@@ -1667,33 +3699,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stone_cabinet": {
     "criteria": {
       "has_planks": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/grenade_launcher": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2022-06-18 12:15:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
     },
     "done": true
   },
@@ -1704,24 +3712,6 @@
     "done": true
   },
   "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_desk_cabinet": {
-    "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/diorite_coffee_table": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:15:46 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/halberd_iron": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:47 +0000"
     },
@@ -1739,27 +3729,9 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/light_grip": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2022-06-18 11:55:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2022-06-18 12:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2022-06-18 12:25:52 +0000"
     },
     "done": true
   },
@@ -1769,15 +3741,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
-      "has_ink_sac": "2022-06-18 11:36:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/light_gray_cooler": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
+      "has_honey_bottle": "2022-06-20 13:38:53 +0000"
     },
     "done": true
   },
@@ -1805,18 +3771,6 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/black_grill": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/light_blue_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_iron": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:47 +0000"
@@ -1832,18 +3786,6 @@
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/warped_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/light_gray_sofa": {
-    "criteria": {
-      "has_wool": "2022-06-18 13:06:42 +0000"
     },
     "done": true
   },
@@ -1871,21 +3813,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/light_blue_cooler": {
     "criteria": {
       "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/light_blue_grill": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
     },
     "done": true
   },
@@ -1901,12 +3831,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/katana_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_iron": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:47 +0000"
@@ -1919,57 +3843,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/purple_cooler": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_table": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/birch_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_stone": "2022-06-18 11:15:46 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/pike_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
     },
     "done": true
   },
@@ -1979,39 +3855,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
-    "criteria": {
-      "has_white_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-18 12:25:52 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/lance_stone": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2022-06-18 11:29:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2022-06-18 12:57:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2022-06-18 11:43:30 +0000"
     },
     "done": true
   },
@@ -2027,15 +3879,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+  "cfm:recipes/cfm/spruce_crate": {
     "criteria": {
-      "has_red_dye": "2022-06-18 11:55:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -2045,33 +3891,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_upgraded_gate": {
-    "criteria": {
-      "has_log": "2022-06-18 11:12:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2022-06-18 11:36:25 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/longsword_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
     },
     "done": true
   },
@@ -2087,21 +3915,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/white_kitchen_sink": {
+  "cfm:recipes/cfm/spruce_kitchen_counter": {
     "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_wool": {
+  "spartanweaponry:recipes/spartanweaponry.basic/longsword_gold": {
     "criteria": {
-      "has_white_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -2111,21 +3933,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/white_cooler": {
     "criteria": {
       "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/birch_kitchen_sink_light": {
-    "criteria": {
-      "has_bottom": "2022-06-18 11:40:56 +0000"
     },
     "done": true
   },
@@ -2153,27 +3963,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/longsword_stone": {
+  "toughasnails:recipes/decorations/water_purifier": {
     "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/birch_upgraded_gate": {
-    "criteria": {
-      "has_log": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/javelin_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
+      "has_charcoal": "2022-06-20 05:00:13 +0000"
     },
     "done": true
   },
@@ -2183,9 +3975,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -2195,21 +3987,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/lance_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2022-06-18 11:46:43 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/warhammer_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
     },
     "done": true
   },
@@ -2219,27 +3999,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget": {
+  "spartanweaponry:recipes/spartanweaponry.basic/dagger_gold": {
     "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-06-18 11:46:43 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.modded/hammer_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -2249,51 +4011,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2022-06-18 12:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_crate": {
-    "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/trampoline": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2022-06-18 11:55:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_gold": {
     "criteria": {
-      "has_beef": "2022-06-18 12:16:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/rock_path": {
-    "criteria": {
-      "has_andesite": "2022-06-18 11:29:36 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -2309,33 +4035,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_table": {
     "criteria": {
       "has_planks": "2022-06-18 11:08:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "cfm:recipes/cfm/stripped_spruce_park_bench": {
     "criteria": {
-      "has_obsidian": "2022-06-18 13:12:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2022-06-18 12:46:57 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/saber_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -2351,9 +4059,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
+      "has_bowl": "2022-06-20 02:45:22 +0000"
     },
     "done": true
   },
@@ -2363,33 +4071,22 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/oak_kitchen_counter": {
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
+      "has_granite": "2022-06-20 08:01:17 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
+  "spartanweaponry:recipes/spartanweaponry.basic/warhammer_gold": {
     "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
-    "criteria": {
-      "has_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-06-18 12:47:08 +0000",
+      "honey_bottle": "2022-06-20 13:46:47 +0000",
       "cooked_beef": "2022-06-18 10:36:32 +0000",
       "apple": "2022-06-18 11:16:07 +0000",
       "cooked_chicken": "2022-06-18 12:47:12 +0000",
@@ -2400,42 +4097,6 @@
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_blinds": {
-    "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_desk": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/birch_park_bench": {
-    "criteria": {
-      "has_log": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/andesite_table": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:29:36 +0000"
     },
     "done": true
   },
@@ -2451,12 +4112,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2022-06-18 11:15:46 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_steel": {
     "criteria": {
       "has_steel_ingot": "2022-06-18 11:48:32 +0000"
@@ -2469,33 +4124,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_chair": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/andesite_chair": {
     "criteria": {
       "has_planks": "2022-06-18 11:29:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-18 12:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
     },
     "done": true
   },
@@ -2508,12 +4145,6 @@
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_wood": {
     "criteria": {
       "has_wood": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/machine_pistol": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
     },
     "done": true
   },
@@ -2541,21 +4172,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/yellow_grill": {
     "criteria": {
       "has_iron": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
     },
     "done": true
   },
@@ -2565,33 +4184,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_string": "2022-06-18 12:15:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2022-06-18 12:57:04 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/glaive_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/white_sofa": {
-    "criteria": {
-      "has_wool": "2022-06-18 11:43:30 +0000"
+      "has_gunpowder": "2022-06-20 07:36:27 +0000"
     },
     "done": true
   },
@@ -2607,57 +4202,21 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_leather": {
+  "farmersdelight:recipes/farmersdelight/apple_pie_from_slices": {
     "criteria": {
-      "has_leather": "2022-06-18 12:14:21 +0000"
+      "has_apple_pie_slice": "2022-06-20 07:21:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
-      "has_diorite": "2022-06-18 11:15:46 +0000"
+      "fried_egg": "2022-06-20 07:39:58 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_steel": {
+  "cfm:recipes/cfm/spruce_blinds": {
     "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/dark_oak_mail_box": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2022-06-18 12:46:57 +0000"
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -2667,45 +4226,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2022-06-18 11:29:36 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/long_scope": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_wool": {
-    "criteria": {
-      "has_white_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
     },
     "done": true
   },
@@ -2721,15 +4244,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_gold": {
     "criteria": {
-      "in_water": "2022-06-18 11:07:48 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
+      "in_water": "2022-06-18 11:07:48 +0000"
     },
     "done": true
   },
@@ -2739,45 +4262,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2022-06-18 11:29:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2022-06-18 11:37:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/dagger_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_diamond": {
     "criteria": {
       "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/rapier_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/rope": {
-    "criteria": {
-      "has_straw": "2022-06-18 11:37:38 +0000"
     },
     "done": true
   },
@@ -2811,21 +4298,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2022-06-18 10:30:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2022-06-18 12:14:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2022-06-18 11:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -2841,9 +4322,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_iron": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
+      "has_rail": "2022-06-20 05:41:06 +0000"
     },
     "done": true
   },
@@ -2853,9 +4334,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/oak_upgraded_gate": {
+  "cfm:recipes/cfm/spruce_upgraded_fence": {
     "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -2877,21 +4358,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/warhammer_iron": {
+  "cfm:recipes/cfm/stripped_spruce_coffee_table": {
     "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
+      "has_planks": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/javelin_steel": {
+  "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_birch_desk": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:36:56 +0000"
+      "has_granite": "2022-06-20 08:01:17 +0000"
     },
     "done": true
   },
@@ -2901,9 +4376,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_black_dye": "2022-06-18 11:36:25 +0000"
+      "has_planks": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -2913,21 +4388,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/white_grill": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:40:56 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/dye_red_picket_gate": {
     "criteria": {
       "has_dye": "2022-06-18 11:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
     },
     "done": true
   },
@@ -2937,21 +4406,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-20 06:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2022-06-19 08:27:38 +0000"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
-      "stone_pickaxe": "2022-06-18 11:14:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
+      "has_granite": "2022-06-20 08:01:17 +0000"
     },
     "done": true
   },
@@ -2973,9 +4442,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
+  "farmersdelight:main/eat_comfort_food": {
     "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
+      "comfort": "2022-06-20 02:45:22 +0000"
     },
     "done": true
   },
@@ -2985,39 +4454,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:40:56 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/rifle": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2022-06-18 11:19:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_park_bench": {
-    "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
     },
     "done": true
   },
@@ -3030,24 +4469,6 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2022-06-18 11:12:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2022-06-18 12:46:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/lime_cooler": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
     },
     "done": true
   },
@@ -3070,25 +4491,7 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/acacia_mail_box": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/warped_mail_box": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_birch_cabinet": {
-    "criteria": {
-      "has_log": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2022-06-18 12:09:25 +0000"
     },
@@ -3100,33 +4503,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-06-18 11:46:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-06-18 12:15:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
-    "criteria": {
-      "has_stone_slab": "2022-06-18 12:35:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:36:56 +0000"
     },
     "done": true
   },
@@ -3142,33 +4521,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_gray_grill": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
+      "has_stone_bricks": "2022-06-20 03:10:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.modded/longsword_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/longsword_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/glaive_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
     },
     "done": true
   },
@@ -3184,51 +4545,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2022-06-18 12:09:25 +0000"
     },
     "done": true
   },
-  "spartanweaponry:longbow": {
+  "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
-      "has_longbow": "2022-06-18 12:21:27 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/andesite_desk": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:29:36 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/halberd_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
+      "has_glass": "2022-06-20 06:07:10 +0000"
     },
     "done": true
   },
   "cfm:recipes/cfm/andesite_coffee_table": {
     "criteria": {
       "has_planks": "2022-06-18 11:29:36 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/dye_red_picket_fence": {
-    "criteria": {
-      "has_dye": "2022-06-18 11:55:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/boomerang_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
     },
     "done": true
   },
@@ -3244,18 +4575,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2022-06-18 11:46:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2022-06-18 12:57:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2022-06-18 11:25:35 +0000"
@@ -3265,12 +4584,6 @@
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_iron": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:08:26 +0000"
     },
     "done": true
   },
@@ -3292,6 +4605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-06-18 11:13:48 +0000"
@@ -3304,27 +4623,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2022-06-18 11:19:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
-    "criteria": {
-      "has_feather": "2022-06-18 12:57:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2022-06-18 11:15:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2022-06-18 11:37:09 +0000"
     },
     "done": true
   },
@@ -3334,9 +4635,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/oak_mail_box": {
+  "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
+      "has_planks": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -3346,45 +4647,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_stone": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/birch_coffee_table": {
     "criteria": {
       "has_log": "2022-06-18 11:36:56 +0000"
     },
     "done": true
   },
-  "cgm:recipes/cgm/workbench": {
+  "spartanweaponry:recipes/spartanweaponry.basic/explosive_charge": {
     "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/white_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/hammer_stone": {
-    "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/dye_black_picket_fence": {
-    "criteria": {
-      "has_dye": "2022-06-18 11:36:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_table": {
-    "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
+      "has_gunpowder": "2022-06-20 07:36:27 +0000"
     },
     "done": true
   },
@@ -3394,21 +4665,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
+  "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
-      "has_stone": "2022-06-18 11:15:46 +0000"
+      "has_log": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+  "cfm:recipes/cfm/stripped_spruce_chair": {
     "criteria": {
-      "has_cooked_mutton": "2022-06-18 12:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:08:35 +0000"
+      "has_planks": "2022-06-20 02:42:58 +0000"
     },
     "done": true
   },
@@ -3418,39 +4683,9 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/bazooka": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/birch_chair": {
-    "criteria": {
-      "has_log": "2022-06-18 11:36:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/dye_black_picket_gate": {
-    "criteria": {
-      "has_dye": "2022-06-18 11:36:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-18 12:25:52 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_desk": {
-    "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/shotgun": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:46 +0000"
     },
     "done": true
   },
@@ -3472,15 +4707,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.modded/saber_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-06-18 11:08:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-20 08:01:17 +0000"
     },
     "done": true
   },
@@ -3490,51 +4725,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/lime_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_wool": {
-    "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/warped_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/magenta_cooler": {
     "criteria": {
       "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.modded/pike_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/katana_wood": {
-    "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2022-06-18 13:12:10 +0000"
     },
     "done": true
   },
@@ -3562,18 +4755,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2022-06-18 12:14:21 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_wood": {
     "criteria": {
       "has_wood": "2022-06-18 11:08:35 +0000"
@@ -3586,63 +4767,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
-    "criteria": {
-      "has_bacon": "2022-06-18 13:01:36 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/diorite_bedside_cabinet": {
     "criteria": {
       "has_planks": "2022-06-18 11:15:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot": {
-    "criteria": {
-      "has_iron_ore": "2022-06-18 11:25:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_red_dye": "2022-06-18 11:55:31 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/light_gray_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/acacia_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_cabinet": {
-    "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/flint_knife": {
-    "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/weighted_stock": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_stone": "2022-06-18 11:29:36 +0000"
     },
     "done": true
   },
@@ -3664,12 +4791,6 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/brown_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2022-06-18 12:36:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2022-06-18 11:27:47 +0000"
@@ -3682,21 +4803,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2022-06-18 12:34:24 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/saber_stone": {
     "criteria": {
       "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/birch_mail_box": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
     },
     "done": true
   },
@@ -3706,9 +4815,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/longbow_wood": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_wood": "2022-06-18 11:08:35 +0000"
+      "has_rail": "2022-06-20 05:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-06-20 07:14:39 +0000"
     },
     "done": true
   },
@@ -3718,33 +4833,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/gray_grill": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:08:35 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
     },
     "done": true
   },
@@ -3790,15 +4881,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/halberd_stone": {
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
     "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
+      "has_onion": "2022-06-20 14:11:20 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
+  "spartanweaponry:recipes/spartanweaponry.basic/halberd_stone": {
     "criteria": {
-      "has_feather": "2022-06-18 12:57:09 +0000"
+      "has_cobblestone": "2022-06-18 11:13:48 +0000"
     },
     "done": true
   },
@@ -3808,33 +4899,15 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2022-06-18 11:07:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2022-06-18 11:39:47 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.modded/dagger_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2022-06-18 11:29:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2022-06-18 11:43:30 +0000"
     },
     "done": true
   },
@@ -3844,57 +4917,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/saber_diamond": {
-    "criteria": {
-      "has_diamond": "2022-06-19 08:27:38 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_wood": {
     "criteria": {
       "has_wood": "2022-06-18 11:08:35 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_stone": {
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
-      "has_cobblestone": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/backpack_small": {
-    "criteria": {
-      "has_wool": "2022-06-18 11:43:30 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/cyan_grill": {
-    "criteria": {
-      "has_iron": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:40:56 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/yellow_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2022-06-18 12:09:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_chair": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:13:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2022-06-18 11:13:48 +0000"
+      "has_gold_ingot": "2022-06-20 07:27:00 +0000"
     },
     "done": true
   },
@@ -3904,33 +4935,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/oak_upgraded_fence": {
-    "criteria": {
-      "has_log": "2022-06-18 11:08:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2022-06-18 10:56:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
-    "criteria": {
-      "has_cooked_beef": "2022-06-18 10:36:29 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/hammer_iron": {
-    "criteria": {
-      "has_iron_ingot": "2022-06-18 11:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2022-06-18 12:25:52 +0000"
     },
     "done": true
   },
@@ -3964,24 +4971,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_stick": "2022-06-18 10:56:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2022-06-18 11:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
-    "criteria": {
-      "has_pink_dye": "2022-06-18 11:56:39 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2022-06-18 12:36:34 +0000"
@@ -3991,18 +4980,6 @@
   "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_steel": {
     "criteria": {
       "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.modded/glaive_steel": {
-    "criteria": {
-      "has_steel_ingot": "2022-06-18 11:48:32 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_kitchen_sink_light": {
-    "criteria": {
-      "has_bottom": "2022-06-18 11:08:35 +0000"
     },
     "done": true
   },

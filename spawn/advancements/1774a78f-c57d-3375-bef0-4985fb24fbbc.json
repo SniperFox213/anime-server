@@ -1,0 +1,680 @@
+{
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-06-20 15:33:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fried_rice": "2022-06-20 15:32:54 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/cfm/birch_table": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/rapier_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/javelin_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/glaive_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/halberd_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 15:30:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/saber_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2022-06-20 15:32:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_park_bench": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_chair": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_crate": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-06-20 15:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/katana_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/scythe_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2022-06-20 15:34:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_blinds": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/greatsword_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/dagger_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-06-20 15:30:40 +0000",
+      "minecraft:mountains": "2022-06-20 15:43:09 +0000",
+      "minecraft:beach": "2022-06-20 15:30:54 +0000",
+      "minecraft:river": "2022-06-20 15:30:49 +0000",
+      "minecraft:wooded_hills": "2022-06-20 15:37:52 +0000",
+      "minecraft:plains": "2022-06-20 15:28:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/club_wood": {
+    "criteria": {
+      "has_wood_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/boomerang_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-06-20 15:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 15:30:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/spear_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2022-06-20 15:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longbow_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 15:30:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-06-20 15:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 15:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-06-20 15:32:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/hammer_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 15:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2022-06-20 15:34:04 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longsword_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pike_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2022-06-20 15:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-06-20 15:33:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 15:30:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2022-06-20 15:32:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/lance_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/warhammer_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_cabinet": {
+    "criteria": {
+      "has_log": "2022-06-20 15:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-06-20 15:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_wood": {
+    "criteria": {
+      "has_wood": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2022-06-20 15:38:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2022-06-20 15:33:29 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

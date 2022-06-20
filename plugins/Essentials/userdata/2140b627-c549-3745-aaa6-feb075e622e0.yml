@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 93.81.208.233
+ip-address: 93.81.212.112
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1655014692050
-  login: 1655014645525
+  logout: 1655717022739
+  login: 1655710227483
 money: '0'
 last-account-name: GamerDiceBruh
 lastlocation:
@@ -29,10 +29,10 @@ lastlocation:
   yaw: 271.18896484375
   pitch: 16.768508911132812
 logoutlocation:
-  world: c674cc1b-870e-4bc5-b705-e58ffe4722c1
-  world-name: Coast
-  x: 7008.082144661074
-  y: 72.0
-  z: -1484.699999988079
-  yaw: 247.36598205566406
-  pitch: 14.611641883850098
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -221.27603663636663
+  y: 69.0
+  z: 844.3629552127701
+  yaw: 341.7148742675781
+  pitch: 11.849954605102539

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.236.189.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655662976436
+  login: 1655653334319
+money: '0'
+last-account-name: sqar_billi
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 20.634827565673064
+  y: 69.24918707874468
+  z: 248.18473406336733
+  yaw: -122.85035705566406
+  pitch: 8.850164413452148
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: 342.30000001192093
+  y: 70.5625
+  z: -164.30000001192093
+  yaw: 220.04998779296875
+  pitch: 21.749969482421875

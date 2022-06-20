@@ -643,3 +643,21 @@ overrides:
     skip-every: default
   net-minecraft-entity-monster-piglin-PiglinBruteEntity:
     skip-every: default
+  net-minecraft-entity-projectile-TridentEntity:
+    skip-every: default
+  com-tac-guns-entity-specifics-LightGrenadeEntity:
+    skip-every: default
+  net-minecraft-entity-merchant-villager-WanderingTraderEntity:
+    skip-every: default
+  com-oblivioussp-spartanweaponry-entity-projectile-ArrowExplosiveEntity:
+    skip-every: default
+  net-minecraft-entity-monster-ZoglinEntity:
+    skip-every: default
+  net-minecraft-entity-monster-EndermiteEntity:
+    skip-every: default
+  com-mrcrayfish-guns-entity-MissileEntity:
+    skip-every: default
+  net-minecraft-entity-item-EnderCrystalEntity:
+    skip-every: default
+  net-minecraft-entity-boss-dragon-EnderDragonEntity:
+    skip-every: default

@@ -1,19 +1,25 @@
 {
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
-      "in_water": "2022-06-18 20:03:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2022-06-18 20:03:13 +0000"
+      "has_smooth_red_sandstone": "2022-06-20 15:42:05 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2022-06-18 12:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_helmet": "2022-06-19 13:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-06-20 15:41:47 +0000"
     },
     "done": true
   },
@@ -35,6 +41,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-06-19 13:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2022-06-20 15:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2022-06-20 15:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-18 20:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-18 20:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2022-06-20 15:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2022-06-20 15:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-06-18 20:03:13 +0000"
@@ -47,10 +95,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_helmet": "2022-06-19 13:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2022-06-18 12:39:52 +0000",
       "minecraft:mountains": "2022-06-18 12:52:59 +0000",
+      "minecraft:desert": "2022-06-20 15:06:07 +0000",
       "minecraft:beach": "2022-06-18 12:39:34 +0000",
       "minecraft:river": "2022-06-18 12:48:30 +0000",
       "minecraft:wooded_mountains": "2022-06-18 12:53:16 +0000",

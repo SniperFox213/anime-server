@@ -1,0 +1,29 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "ABOBA",
+    "UUID": "8ed20d3a-a6d8-3025-8350-d456873e235a",
+    "ScriptStoreddata": {
+    }
+}

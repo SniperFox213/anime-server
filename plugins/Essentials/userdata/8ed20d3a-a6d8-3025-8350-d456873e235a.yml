@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.95.44.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655702430700
+  login: 1655702392761
+money: '0'
+last-account-name: ABOBA
+lastlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -2.936990773908098
+  y: 69.0
+  z: 249.6940169826688
+  yaw: 197.0241241455078
+  pitch: 10.04999828338623
+logoutlocation:
+  world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
+  world-name: spawn
+  x: -41.0071835202213
+  y: 70.0
+  z: 231.76093046742164
+  yaw: 299.0998840332031
+  pitch: 12.44999885559082

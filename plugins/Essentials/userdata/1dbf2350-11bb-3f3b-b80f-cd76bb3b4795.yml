@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1655623692419
-  login: 1655619524021
+  logout: 1655746134122
+  login: 1655746043860
 money: '0'
 last-account-name: Gadensh
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 64e184e6-0d44-4758-8692-22ddb9ab48cc
   world-name: spawn
-  x: 333.90924675688296
-  y: 72.0
-  z: -197.345074936281
-  yaw: 182.551025390625
-  pitch: 2.250023365020752
+  x: 327.69999998807907
+  y: 24.0
+  z: -206.11476091524983
+  yaw: 94.34994506835938
+  pitch: -17.249841690063477

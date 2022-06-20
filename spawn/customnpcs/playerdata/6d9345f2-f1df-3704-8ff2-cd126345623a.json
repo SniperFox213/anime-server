@@ -1,0 +1,33 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "sqar_billi",
+    "UUID": "6d9345f2-f1df-3704-8ff2-cd126345623a",
+    "ScriptStoreddata": {
+    }
+}

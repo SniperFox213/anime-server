@@ -216,7 +216,7 @@ world-settings:
     anti-xray:
       lava-obscures: false
       use-permission: false
-      enabled: false
+      enabled: true
       engine-mode: 1
       chunk-edge-mode: 1
       max-chunk-section-index: 3

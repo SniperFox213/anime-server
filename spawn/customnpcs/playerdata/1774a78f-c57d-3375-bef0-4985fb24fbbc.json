@@ -1,0 +1,33 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Geroin",
+    "UUID": "1774a78f-c57d-3375-bef0-4985fb24fbbc",
+    "ScriptStoreddata": {
+    }
+}

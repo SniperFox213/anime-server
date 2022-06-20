@@ -1529,6 +1529,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2022-06-19 18:14:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_desk_cabinet": {
     "criteria": {
       "has_log": "2022-06-18 14:13:48 +0000"
@@ -2531,6 +2537,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2022-06-19 18:14:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2022-06-18 12:07:23 +0000"
@@ -2889,6 +2901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-06-19 18:14:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_sofa": {
     "criteria": {
       "has_wool": "2022-06-18 12:07:23 +0000"
@@ -2928,6 +2946,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_steel": {
     "criteria": {
       "has_steel_ingot": "2022-06-18 13:45:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2022-06-19 16:38:49 +0000"
     },
     "done": true
   },
@@ -3446,6 +3470,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2022-06-18 12:45:30 +0000",
+      "onion": "2022-06-19 16:27:35 +0000",
       "tomato": "2022-06-18 12:50:40 +0000",
       "rice": "2022-06-18 14:35:27 +0000",
       "beetroot": "2022-06-18 13:42:28 +0000",
@@ -3791,6 +3816,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2022-06-19 18:14:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_planks": "2022-06-18 07:54:21 +0000"
@@ -3950,6 +3981,12 @@
   "cfm:recipes/cfm/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2022-06-18 13:11:39 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gunpowder": "2022-06-19 18:14:33 +0000"
     },
     "done": true
   },
@@ -4244,6 +4281,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2022-06-18 14:14:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2022-06-19 16:27:17 +0000"
     },
     "done": true
   },
